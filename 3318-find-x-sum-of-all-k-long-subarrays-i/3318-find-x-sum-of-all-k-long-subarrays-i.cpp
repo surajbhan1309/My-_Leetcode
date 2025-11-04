@@ -20,7 +20,7 @@ public:
     vector<int> findXSum(vector<int>& nums, int k, int x) {
         int n = nums.size();
         vector<int> ans;
-        for (int i = 0; i + k <= n; i++)
+        for (int i = 0; i +k-1 < n; i++)
             ans.push_back(getXSum(nums, i, i + k, x));
         return ans;
     }
