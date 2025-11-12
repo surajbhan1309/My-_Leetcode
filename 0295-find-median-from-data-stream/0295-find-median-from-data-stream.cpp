@@ -1,7 +1,11 @@
 class MedianFinder {
 public:
-    priority_queue<int>maxheap;
-    priority_queue<int,vector<int>,greater<int>>minheap;
+    priority_queue<int>maxheap;//to store low numbers 
+    priority_queue<int,vector<int>,greater<int>>minheap;//to store high numbers;
+
+    //maxheap gives the highest among the lowest and mineheap gives the lowest among the highest
+    //like maxheap have 1,2,3,5,8 and minheap have 10,21,99 so median of 8 and 10 wil be answer; 
+    
     MedianFinder() {
         
     }
