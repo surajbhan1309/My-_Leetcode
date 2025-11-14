@@ -7,24 +7,35 @@ public:
             totalWeight=totalWeight+weight;
         }
 
-        while (maxWeight < totalWeight) {
-            int mid= maxWeight + (totalWeight - maxWeight) / 2;
-            int daysNeeded=1,currWeight=0;
-            for(int weight:weights){
-                if(currWeight+weight>mid){
-                    daysNeeded++;
-                    currWeight=0;
-                }
-                currWeight=currWeight+weight;
-            }
-            if(daysNeeded>days){
-                maxWeight=mid+1;
+        int low=maxWeight;
+        int high=totalWeight;
+        while(low<=high)
+        {
+            int mid=low+(high-low)/2;
+            int noofdays=finddays(weights,mid);
+            if(noofdays<=days){
+                high=mid-1;
             }
             else{
-                totalWeight=mid;
+                low=mid+1;
             }
         }
-        return maxWeight;
+        return low;
         
+    }
+    int finddays(vector<int>&weights,int capacity){
+        int n=weights.size();
+        int load=0;
+        int day=1;
+        for(int i=0;i<n;i++){
+            if(load+weights[i]>capacity){
+                day++;
+                load=weights[i];
+            }
+            else{
+                load+=weights[i];
+            }
+        }
+        return day;
     }
 };
