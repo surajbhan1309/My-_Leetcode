@@ -1,19 +1,18 @@
 class Solution {
 public:
     int shipWithinDays(vector<int>& weights, int days) {
-        int maxWeight=-1,totalWeight=0;
-        for(int weight:weights){
-            maxWeight=max(maxWeight,weight);
-            totalWeight=totalWeight+weight;
+        int maxW=-1;
+        int totalW=0;
+        for(auto &w:weights){
+            maxW=max(maxW,w);
+            totalW=totalW+w;
         }
-
-        int low=maxWeight;
-        int high=totalWeight;
-        while(low<=high)
-        {
+        int low=maxW;
+        int high=totalW;
+        while(low<=high){
             int mid=low+(high-low)/2;
-            int noofdays=finddays(weights,mid);
-            if(noofdays<=days){
+            int no_of_days=finddays(weights,mid);
+            if(no_of_days<=days){
                 high=mid-1;
             }
             else{
@@ -26,16 +25,16 @@ public:
     int finddays(vector<int>&weights,int capacity){
         int n=weights.size();
         int load=0;
-        int day=1;
+        int days=1;
         for(int i=0;i<n;i++){
             if(load+weights[i]>capacity){
-                day++;
+                days++;
                 load=weights[i];
             }
             else{
                 load+=weights[i];
             }
         }
-        return day;
+        return days;
     }
 };
