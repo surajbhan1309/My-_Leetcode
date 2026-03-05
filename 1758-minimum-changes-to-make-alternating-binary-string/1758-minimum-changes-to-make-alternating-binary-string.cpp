@@ -1,10 +1,15 @@
 class Solution {
 public:
     int minOperations(string s) {
-        int n, c = 0, j = 0;
-        for(n = 0; n < s.size(); n++, j ^= 1) {
-            if(s[n] - '0' == j) c++;
+        int count1 = 0, count2 = 0;
+
+        for(int i=0; i<s.size(); ++i) {
+            char expected1 = (i % 2) == 0 ? '0' : '1';
+            char expected2 = (i % 2) == 0 ? '1' : '0';
+
+            if(s[i] != expected1) count1++;
+            if(s[i] != expected2) count2++;
         }
-        return min(c, n - c);
+        return min(count1, count2);
     }
 };
