@@ -1,9 +1,9 @@
 class Solution {
 public:
-    int sumdivisor(vector<int>&nums,int mid){
+    int sumofdivisors(vector<int>&nums,int mid){
         int sum=0;
         for(auto &x:nums){
-             sum += (x + mid - 1) / mid;
+            sum+=(x+mid-1)/mid;
         }
         return sum;
     }
@@ -12,10 +12,9 @@ public:
         sort(nums.begin(),nums.end());
         int low=1;
         int high=nums[n-1];
-        int ans=-1;
         while(low<=high){
             int mid=low+(high-low)/2;
-            if(sumdivisor(nums,mid)<=threshold){
+            if(sumofdivisors(nums,mid)<=threshold){
                 high=mid-1;
             }
             else{
@@ -23,6 +22,5 @@ public:
             }
         }
         return low;
-        
     }
 };
