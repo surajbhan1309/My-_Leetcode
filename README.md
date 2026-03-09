@@ -55,4 +55,8 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0907-sum-of-subarray-minimums](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0907-sum-of-subarray-minimums/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/surajbhan1309/My-_Leetcode/tree/main/2220-minimum-bit-flips-to-convert-number/) | Easy |
 <!---LeetCode Topics End-->
