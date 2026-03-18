@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0015-3sum](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0018-4sum/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0063-unique-paths-ii](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0063-unique-paths-ii/) | Medium |
 | [0118-pascals-triangle](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0118-pascals-triangle/) | Easy |
 | [0120-triangle](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0120-triangle/) | Medium |
 | [0162-find-peak-element](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0162-find-peak-element/) | Medium |
@@ -62,12 +63,14 @@ Collection of LeetCode questions to ace the coding interview!
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0063-unique-paths-ii](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0063-unique-paths-ii/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/surajbhan1309/My-_Leetcode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/surajbhan1309/My-_Leetcode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0062-unique-paths/) | Medium |
+| [0063-unique-paths-ii](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0063-unique-paths-ii/) | Medium |
 | [0070-climbing-stairs](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0118-pascals-triangle](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0118-pascals-triangle/) | Easy |
 | [0120-triangle](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0120-triangle/) | Medium |
