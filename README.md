@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0015-3sum](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0018-4sum/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/surajbhan1309/My-_Leetcode/tree/main/2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -37,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1539-kth-missing-positive-number](https://github.com/surajbhan1309/My-_Leetcode/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/surajbhan1309/My-_Leetcode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/surajbhan1309/My-_Leetcode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/surajbhan1309/My-_Leetcode/tree/main/2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -63,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/surajbhan1309/My-_Leetcode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/surajbhan1309/My-_Leetcode/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/surajbhan1309/My-_Leetcode/tree/main/1539-kth-missing-positive-number/) | Easy |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/surajbhan1309/My-_Leetcode/tree/main/2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -83,12 +86,14 @@ Collection of LeetCode questions to ace the coding interview!
 | [0198-house-robber](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0198-house-robber/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0907-sum-of-subarray-minimums/) | Medium |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/surajbhan1309/My-_Leetcode/tree/main/2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0191-number-of-1-bits](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0191-number-of-1-bits/) | Easy |
 | [0231-power-of-two](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0231-power-of-two/) | Easy |
 | [1009-complement-of-base-10-integer](https://github.com/surajbhan1309/My-_Leetcode/tree/main/1009-complement-of-base-10-integer/) | Easy |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/surajbhan1309/My-_Leetcode/tree/main/2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/surajbhan1309/My-_Leetcode/tree/main/2220-minimum-bit-flips-to-convert-number/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -115,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0018-4sum](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0018-4sum/) | Medium |
 | [0229-majority-element-ii](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0229-majority-element-ii/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/surajbhan1309/My-_Leetcode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/surajbhan1309/My-_Leetcode/tree/main/2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -131,4 +137,12 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
+## Ordered Set
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/surajbhan1309/My-_Leetcode/tree/main/2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard |
+## Bitmask
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/surajbhan1309/My-_Leetcode/tree/main/2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard |
 <!---LeetCode Topics End-->
