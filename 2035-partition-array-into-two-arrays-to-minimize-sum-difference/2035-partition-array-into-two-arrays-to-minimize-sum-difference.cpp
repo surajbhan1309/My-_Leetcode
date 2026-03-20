@@ -44,11 +44,12 @@ public:
                 auto& vec = right[n - k];
                 auto it = lower_bound(vec.begin(), vec.end(), need);
 
-                if (it != vec.end()) {
+                if (it != vec.end()) {//this only gives sum>=need
                     int s2 = *it;
                     ans = min(ans, abs(total - 2 * (s1 + s2)));
                 }
-                if (it != vec.begin()) {
+
+                if (it != vec.begin()) { //by this sum>need by taking removing previous
                     --it;
                     int s2 = *it;
                     ans = min(ans, abs(total - 2 * (s1 + s2)));
