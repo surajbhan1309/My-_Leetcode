@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0033-search-in-rotated-sorted-array](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0063-unique-paths-ii](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0064-minimum-path-sum/) | Medium |
+| [0090-subsets-ii](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0090-subsets-ii/) | Medium |
 | [0118-pascals-triangle](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0118-pascals-triangle/) | Easy |
 | [0120-triangle](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0120-triangle/) | Medium |
 | [0162-find-peak-element](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0162-find-peak-element/) | Medium |
@@ -90,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0090-subsets-ii](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0090-subsets-ii/) | Medium |
 | [0191-number-of-1-bits](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0191-number-of-1-bits/) | Easy |
 | [0231-power-of-two](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0231-power-of-two/) | Easy |
 | [1009-complement-of-base-10-integer](https://github.com/surajbhan1309/My-_Leetcode/tree/main/1009-complement-of-base-10-integer/) | Easy |
@@ -145,4 +147,8 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/surajbhan1309/My-_Leetcode/tree/main/2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0090-subsets-ii](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0090-subsets-ii/) | Medium |
 <!---LeetCode Topics End-->
