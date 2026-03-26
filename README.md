@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/surajbhan1309/My-_Leetcode/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/surajbhan1309/My-_Leetcode/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
@@ -52,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0229-majority-element-ii](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0229-majority-element-ii/) | Medium |
 | [0496-next-greater-element-i](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [3548-equal-sum-grid-partition-ii](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
@@ -173,4 +175,8 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3548-equal-sum-grid-partition-ii](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 <!---LeetCode Topics End-->
