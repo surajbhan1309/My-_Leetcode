@@ -1,31 +1,38 @@
 class Solution {
 public:
     int candy(vector<int>& ratings) {
-        //2nd Approach peak and dip 
-        int i=1;
-        int n=ratings.size();
-        int candy=n;
-        while(i<n){
-            if(ratings[i]==ratings[i-1]){
+        int n = ratings.size();
+        int i = 1;
+        int candy = 1; // first child gets 1 candy
+
+        while (i < n) {
+            // Case 1: equal ratings
+            if (ratings[i] == ratings[i - 1]) {
+                candy += 1;
                 i++;
                 continue;
             }
-            int peak=0;
-            while(ratings[i]>ratings[i-1]){
-                i++;
+
+            // Case 2: increasing (peak)
+            int peak = 0;
+            while (i < n && ratings[i] > ratings[i - 1]) {
                 peak++;
-                candy+=peak;
-                if(i==n) return candy;
-            }
-            int dip=0;
-            while(i<n && ratings[i]<ratings[i-1]){
+                candy += (1 + peak);
                 i++;
+            }
+
+            // Case 3: decreasing (dip)
+            int dip = 0;
+            while (i < n && ratings[i] < ratings[i - 1]) {
                 dip++;
-                candy+=dip;
-            } 
-            candy-=min(peak,dip);
+                candy += (1 + dip);
+                i++;
+            }
+
+            // adjust overlap
+            candy -= min(peak, dip);
         }
+
         return candy;
-        
     }
 };
