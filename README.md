@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0049-group-anagrams](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/surajbhan1309/My-_Leetcode/tree/main/1143-longest-common-subsequence/) | Medium |
@@ -26,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0015-3sum](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0018-4sum/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0049-group-anagrams](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0063-unique-paths-ii](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0090-subsets-ii](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0090-subsets-ii/) | Medium |
@@ -58,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0049-group-anagrams](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0229-majority-element-ii](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0229-majority-element-ii/) | Medium |
 | [0496-next-greater-element-i](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [3548-equal-sum-grid-partition-ii](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
@@ -145,6 +148,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0015-3sum](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0018-4sum/) | Medium |
+| [0049-group-anagrams](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0229-majority-element-ii](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0229-majority-element-ii/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/surajbhan1309/My-_Leetcode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/surajbhan1309/My-_Leetcode/tree/main/2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard |
