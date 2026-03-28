@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0216-combination-sum-iii](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0216-combination-sum-iii/) | Medium |
 | [0229-majority-element-ii](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0229-majority-element-ii/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0416-partition-equal-subset-sum/) | Medium |
+| [0493-reverse-pairs](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0493-reverse-pairs/) | Hard |
 | [0496-next-greater-element-i](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0518-coin-change-ii](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0518-coin-change-ii/) | Medium |
@@ -82,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0162-find-peak-element/) | Medium |
+| [0493-reverse-pairs](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0493-reverse-pairs/) | Hard |
 | [1004-max-consecutive-ones-iii](https://github.com/surajbhan1309/My-_Leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/surajbhan1309/My-_Leetcode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/surajbhan1309/My-_Leetcode/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
@@ -139,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0191-number-of-1-bits](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0191-number-of-1-bits/) | Easy |
+| [0493-reverse-pairs](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0493-reverse-pairs/) | Hard |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -177,6 +180,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Ordered Set
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0493-reverse-pairs](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0493-reverse-pairs/) | Hard |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/surajbhan1309/My-_Leetcode/tree/main/2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard |
 ## Bitmask
 | Problem Name | Difficulty |
@@ -200,4 +204,16 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/surajbhan1309/My-_Leetcode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
+## Binary Indexed Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0493-reverse-pairs](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0493-reverse-pairs/) | Hard |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0493-reverse-pairs](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0493-reverse-pairs/) | Hard |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0493-reverse-pairs](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0493-reverse-pairs/) | Hard |
 <!---LeetCode Topics End-->
