@@ -11,6 +11,6 @@ public:
             }
         }
 
-        return n <= 0;
+        return n == 0;
     }
 };
