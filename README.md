@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0151-reverse-words-in-a-string](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0583-delete-operation-for-two-strings](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0583-delete-operation-for-two-strings/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [1092-shortest-common-supersequence](https://github.com/surajbhan1309/My-_Leetcode/tree/main/1092-shortest-common-supersequence/) | Hard |
 | [1143-longest-common-subsequence](https://github.com/surajbhan1309/My-_Leetcode/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/surajbhan1309/My-_Leetcode/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/surajbhan1309/My-_Leetcode/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
@@ -125,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0583-delete-operation-for-two-strings](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0583-delete-operation-for-two-strings/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0907-sum-of-subarray-minimums/) | Medium |
+| [1092-shortest-common-supersequence](https://github.com/surajbhan1309/My-_Leetcode/tree/main/1092-shortest-common-supersequence/) | Hard |
 | [1143-longest-common-subsequence](https://github.com/surajbhan1309/My-_Leetcode/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/surajbhan1309/My-_Leetcode/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/surajbhan1309/My-_Leetcode/tree/main/2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard |
