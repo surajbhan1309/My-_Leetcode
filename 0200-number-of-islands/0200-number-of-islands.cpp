@@ -1,43 +1,34 @@
 class Solution {
 public:
-    vector<pair<int, int>> dir{{1, 0}, {-1, 0}, {0, 1}, {0, -1}};
-    void dfs(vector<vector<char>>& grid, int i, int j) {
-        if(i < 0 || i >= grid.size() || j < 0 || j >= grid[0].size() || grid[i][j] != '1')
+    int n, m;
+
+    void dfs(int i, int j, vector<vector<char>>& grid){
+        if(i < 0 || j < 0 || i >= n || j >= m || grid[i][j] == '0')
             return;
-        
-        /*
-          You can also use lambda function for checking if next cell is valid or not
-          auto isSafe = [&](int &i, int &j) {
-            if(i < 0 || i >= grid.size() || j < 0 || j >= grid[0].size() || grid[i][j] != '1')
-                return false;
-            return true;
-          }; 
-        */
-        
-        grid[i][j] = '$';
-        
-        for(pair<int, int> &p : dir) {
-            int i_ = i + p.first;
-            int j_ = j + p.second;
-            dfs(grid, i_, j_);
-        }
+
+        grid[i][j] = '0'; // mark visited
+
+        dfs(i+1, j, grid);
+        dfs(i-1, j, grid);
+        dfs(i, j+1, grid);
+        dfs(i, j-1, grid);
     }
+
     int numIslands(vector<vector<char>>& grid) {
-        if(grid.size() == 0)
-            return 0;
-        
-        int m = grid.size();
-        int n = grid[0].size();
-        int count = 0;
-        for(int i = 0; i<m; i++) {
-            for(int j = 0; j<n; j++) {
-                if(grid[i][j] == '1') {
-                    dfs(grid, i, j);
-                    count++;
+        n = grid.size();
+        m = grid[0].size();
+
+        int islands = 0;
+
+        for(int i = 0; i < n; i++){
+            for(int j = 0; j < m; j++){
+                if(grid[i][j] == '1'){
+                    islands++;
+                    dfs(i, j, grid);
                 }
             }
         }
-        
-        return count;
+
+        return islands;
     }
 };
