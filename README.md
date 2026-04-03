@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0018-4sum](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0018-4sum/) | Medium |
 | [0075-sort-colors](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0202-happy-number](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0202-happy-number/) | Easy |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/surajbhan1309/My-_Leetcode/tree/main/2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard |
 | [3643-flip-square-submatrix-vertically](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## String
@@ -72,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0049-group-anagrams](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0049-group-anagrams/) | Medium |
+| [0202-happy-number](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0202-happy-number/) | Easy |
 | [0229-majority-element-ii](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0229-majority-element-ii/) | Medium |
 | [0496-next-greater-element-i](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/surajbhan1309/My-_Leetcode/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
@@ -149,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0070-climbing-stairs/) | Easy |
+| [0202-happy-number](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0202-happy-number/) | Easy |
 | [0231-power-of-two](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0368-largest-divisible-subset](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0368-largest-divisible-subset/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/surajbhan1309/My-_Leetcode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
