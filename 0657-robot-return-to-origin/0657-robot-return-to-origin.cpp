@@ -1,13 +1,16 @@
 class Solution {
 public:
     bool judgeCircle(string moves) {
-        if(moves.size() & 1) return false;
-        unordered_map<char,int>Vmap;
-        for(char c:moves){
-            Vmap[c]++;
-        }
-        return Vmap['U'] == Vmap['D'] && Vmap['L'] == Vmap['R'];
-
+        int x = 0;
+        int y = 0;
         
+        for (char move : moves) {
+            if (move == 'U') y++;
+            else if (move == 'D') y--;
+            else if (move == 'L') x--;
+            else if (move == 'R') x++;
+        }
+        
+        return x == 0 && y == 0;
     }
 };
