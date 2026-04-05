@@ -14,10 +14,9 @@ public:
                         count[i]=count[j];
                     }
                     else if(len[j]+1 == len[i]){
-                        len[i]=len[j]+1;
                         count[i]+=count[j];
                     }
-                    
+
                 }
             }
             maxlen=max(maxlen,len[i]);
