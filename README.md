@@ -70,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1582-special-positions-in-a-binary-matrix](https://github.com/surajbhan1309/My-_Leetcode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/surajbhan1309/My-_Leetcode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/surajbhan1309/My-_Leetcode/tree/main/1827-minimum-operations-to-make-the-array-increasing/) | Easy |
+| [2013-detect-squares](https://github.com/surajbhan1309/My-_Leetcode/tree/main/2013-detect-squares/) | Medium |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/surajbhan1309/My-_Leetcode/tree/main/2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard |
 | [2149-rearrange-array-elements-by-sign](https://github.com/surajbhan1309/My-_Leetcode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2906-construct-product-matrix](https://github.com/surajbhan1309/My-_Leetcode/tree/main/2906-construct-product-matrix/) | Medium |
@@ -88,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0229-majority-element-ii](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0229-majority-element-ii/) | Medium |
 | [0496-next-greater-element-i](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [1048-longest-string-chain](https://github.com/surajbhan1309/My-_Leetcode/tree/main/1048-longest-string-chain/) | Medium |
+| [2013-detect-squares](https://github.com/surajbhan1309/My-_Leetcode/tree/main/2013-detect-squares/) | Medium |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/surajbhan1309/My-_Leetcode/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 ## Stack
@@ -203,6 +205,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0229-majority-element-ii](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0229-majority-element-ii/) | Medium |
+| [2013-detect-squares](https://github.com/surajbhan1309/My-_Leetcode/tree/main/2013-detect-squares/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -303,4 +306,12 @@ Collection of LeetCode questions to ace the coding interview!
 | [0450-delete-node-in-a-bst](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2013-detect-squares](https://github.com/surajbhan1309/My-_Leetcode/tree/main/2013-detect-squares/) | Medium |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2013-detect-squares](https://github.com/surajbhan1309/My-_Leetcode/tree/main/2013-detect-squares/) | Medium |
 <!---LeetCode Topics End-->
