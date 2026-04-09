@@ -271,6 +271,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0700-search-in-a-binary-search-tree](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -287,8 +288,13 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0700-search-in-a-binary-search-tree](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0200-number-of-islands/) | Medium |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 <!---LeetCode Topics End-->
