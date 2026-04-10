@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1092-shortest-common-supersequence](https://github.com/surajbhan1309/My-_Leetcode/tree/main/1092-shortest-common-supersequence/) | Hard |
 | [1143-longest-common-subsequence](https://github.com/surajbhan1309/My-_Leetcode/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/surajbhan1309/My-_Leetcode/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/surajbhan1309/My-_Leetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/surajbhan1309/My-_Leetcode/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/surajbhan1309/My-_Leetcode/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/surajbhan1309/My-_Leetcode/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
@@ -99,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0503-next-greater-element-ii](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0907-sum-of-subarray-minimums/) | Medium |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/surajbhan1309/My-_Leetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
