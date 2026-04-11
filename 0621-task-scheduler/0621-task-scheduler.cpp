@@ -1,15 +1,15 @@
 class Solution {
 public:
     int leastInterval(vector<char>& tasks, int n) {
-        int size=tasks.size();
-        unordered_map<char,int>freq;
-        for(char &x:tasks){
-            freq[x]++;
+        int s=tasks.size();
+        unordered_map<char,int>Vmap;
+        for(auto &c:tasks){
+            Vmap[c]++;
         }
         int time=0;
         priority_queue<int>maxheap;
-        for(auto &x:freq){
-            maxheap.push(x.second);
+        for(auto &c:Vmap){
+            maxheap.push(c.second);
         }
         while(!maxheap.empty()){
             vector<int>temp;
@@ -19,9 +19,9 @@ public:
                     maxheap.pop();
                 }
             }
-            for(int &frequency:temp){
-                if(frequency>0){
-                    maxheap.push(frequency);
+            for(auto &f:temp){
+                if(f>0){
+                    maxheap.push(f);
                 }
             }
             if(maxheap.empty()){
@@ -30,9 +30,7 @@ public:
             else{
                 time+=(n+1);
             }
-
         }
         return time;
-        
     }
 };
