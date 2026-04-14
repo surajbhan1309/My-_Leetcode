@@ -57,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0216-combination-sum-iii](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0216-combination-sum-iii/) | Medium |
 | [0229-majority-element-ii](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0229-majority-element-ii/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [0368-largest-divisible-subset](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0368-largest-divisible-subset/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0493-reverse-pairs](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0493-reverse-pairs/) | Hard |
@@ -127,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0162-find-peak-element/) | Medium |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [0493-reverse-pairs](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0493-reverse-pairs/) | Hard |
 | [1004-max-consecutive-ones-iii](https://github.com/surajbhan1309/My-_Leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/surajbhan1309/My-_Leetcode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
@@ -200,6 +202,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0191-number-of-1-bits](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0191-number-of-1-bits/) | Easy |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [0493-reverse-pairs](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0493-reverse-pairs/) | Hard |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 ## Memoization
@@ -251,6 +254,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Ordered Set
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [0493-reverse-pairs](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0493-reverse-pairs/) | Hard |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/surajbhan1309/My-_Leetcode/tree/main/2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard |
 ## Bitmask
@@ -282,16 +286,19 @@ Collection of LeetCode questions to ace the coding interview!
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [0493-reverse-pairs](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0493-reverse-pairs/) | Hard |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [0493-reverse-pairs](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0493-reverse-pairs/) | Hard |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [0493-reverse-pairs](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0493-reverse-pairs/) | Hard |
 ## Tree
 | Problem Name | Difficulty |
