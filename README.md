@@ -67,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0496-next-greater-element-i](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0518-coin-change-ii](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0518-coin-change-ii/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0605-can-place-flowers](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0605-can-place-flowers/) | Easy |
 | [0621-task-scheduler](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0621-task-scheduler/) | Medium |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
@@ -101,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0229-majority-element-ii](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0229-majority-element-ii/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0496-next-greater-element-i](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
+| [0560-subarray-sum-equals-k](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0621-task-scheduler](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0621-task-scheduler/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [1048-longest-string-chain](https://github.com/surajbhan1309/My-_Leetcode/tree/main/1048-longest-string-chain/) | Medium |
@@ -251,6 +253,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/surajbhan1309/My-_Leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [2906-construct-product-matrix](https://github.com/surajbhan1309/My-_Leetcode/tree/main/2906-construct-product-matrix/) | Medium |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
