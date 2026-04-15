@@ -4,19 +4,13 @@ public:
         int ans = INT_MAX;
         int n = words.size();
 
-        for(int i = startIndex; i < n; i++){
+        for(int i = 0; i < n; i++){
             if(words[i] == target) {
                 int dist = abs(i - startIndex);
                 ans = min(ans, min(dist, n - dist));
             }
         }
 
-        for(int i = startIndex; i >= 0; i--){
-            if(words[i] == target) {
-                int dist = abs(i - startIndex);
-                ans = min(ans, min(dist, n - dist));
-            }
-        }
 
         return (ans == INT_MAX) ? -1 : ans;
     }
