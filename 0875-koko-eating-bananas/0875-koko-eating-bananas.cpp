@@ -5,7 +5,7 @@ public:
         int low=1;
         int high=*max_element(piles.begin(),piles.end());
         int ans=high;
-        while(low<high){
+        while(low<=high){
             int mid=low+(high-low)/2;
             if(Ispossible(mid,piles,h)){
                 ans=mid;
