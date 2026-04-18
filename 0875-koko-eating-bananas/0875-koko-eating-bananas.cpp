@@ -1,12 +1,13 @@
 class Solution {
 public:
     int minEatingSpeed(vector<int>& piles, int h) {
+        int n=piles.size();
         int low=1;
         int high=*max_element(piles.begin(),piles.end());
         int ans=high;
-        while(low<=high){
+        while(low<high){
             int mid=low+(high-low)/2;
-            if(caneat(mid,piles,h)){
+            if(Ispossible(mid,piles,h)){
                 ans=mid;
                 high=mid-1;
             }
@@ -17,11 +18,11 @@ public:
         return ans;
         
     }
-    bool caneat(int k,vector<int>&piles,int h){
-        long long hours=0;
-        for(auto & pile:piles){
-            hours+=(pile+k-1)/k;
+    bool Ispossible(int mid,vector<int>&piles,int h){
+        int totalhours=0;
+        for(auto &pile:piles){
+            totalhours+=(pile+mid-1)/mid;
         }
-        return hours<=h;
+        return totalhours<=h;
     }
 };
