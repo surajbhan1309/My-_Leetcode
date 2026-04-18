@@ -19,7 +19,7 @@ public:
         
     }
     bool Ispossible(int mid,vector<int>&piles,int h){
-        int totalhours=0;
+        long long totalhours=0;
         for(auto &pile:piles){
             totalhours+=(pile+mid-1)/mid;
         }
