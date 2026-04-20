@@ -1,12 +1,5 @@
 class Solution {
 public:
-    int sumofdivisors(vector<int>&nums,int mid){
-        int sum=0;
-        for(auto &x:nums){
-            sum+=(x+mid-1)/mid;
-        }
-        return sum;
-    }
     int smallestDivisor(vector<int>& nums, int threshold) {
         int n=nums.size();
         sort(nums.begin(),nums.end());
@@ -14,7 +7,7 @@ public:
         int high=nums[n-1];
         while(low<=high){
             int mid=low+(high-low)/2;
-            if(sumofdivisors(nums,mid)<=threshold){
+            if(Issumpossible(mid,nums,threshold)){
                 high=mid-1;
             }
             else{
@@ -22,5 +15,13 @@ public:
             }
         }
         return low;
+        
+    }
+    bool Issumpossible(int mid,vector<int>& nums,int threshold){
+        int sum=0;
+        for(auto &x:nums){
+            sum+=(x+mid-1)/mid;
+        }
+        return sum<=threshold;
     }
 };
