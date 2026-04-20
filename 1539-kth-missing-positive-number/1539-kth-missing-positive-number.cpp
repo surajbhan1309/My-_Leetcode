@@ -15,6 +15,6 @@ public:
             }
 
         }
-        return low+k;   
+        return high+k+1;   
     }
 };
