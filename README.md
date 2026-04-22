@@ -66,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0216-combination-sum-iii](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0216-combination-sum-iii/) | Medium |
 | [0229-majority-element-ii](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0229-majority-element-ii/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0240-search-a-2d-matrix-ii](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [0368-largest-divisible-subset](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0368-largest-divisible-subset/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
@@ -148,6 +149,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0074-search-a-2d-matrix](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0162-find-peak-element/) | Medium |
+| [0240-search-a-2d-matrix-ii](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [0410-split-array-largest-sum](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0493-reverse-pairs](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0493-reverse-pairs/) | Hard |
@@ -164,6 +166,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0064-minimum-path-sum](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0200-number-of-islands](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0200-number-of-islands/) | Medium |
+| [0240-search-a-2d-matrix-ii](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/surajbhan1309/My-_Leetcode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/surajbhan1309/My-_Leetcode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [2906-construct-product-matrix](https://github.com/surajbhan1309/My-_Leetcode/tree/main/2906-construct-product-matrix/) | Medium |
@@ -226,6 +229,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0191-number-of-1-bits](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0191-number-of-1-bits/) | Easy |
+| [0240-search-a-2d-matrix-ii](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [0493-reverse-pairs](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0493-reverse-pairs/) | Hard |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
