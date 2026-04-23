@@ -14,7 +14,7 @@ public:
 
             arr[i]+=freq*i-sum;
 
-            indexcount[nums[i]]+=1;
+            indexcount[nums[i]]++;
             indexsum[nums[i]]+=i;
         }
         indexsum.clear();
@@ -27,7 +27,7 @@ public:
 
             arr[i]+=sum-freq*i;
 
-            indexcount[nums[i]]+=1;
+            indexcount[nums[i]]++;
             indexsum[nums[i]]+=i;
 
         }
