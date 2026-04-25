@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0091-decode-ways](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0091-decode-ways/) | Medium |
 | [0115-distinct-subsequences](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0115-distinct-subsequences/) | Hard |
 | [0151-reverse-words-in-a-string](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0205-isomorphic-strings](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0205-isomorphic-strings/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0583-delete-operation-for-two-strings](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0583-delete-operation-for-two-strings/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0657-robot-return-to-origin/) | Easy |
@@ -118,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0202-happy-number](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0202-happy-number/) | Easy |
+| [0205-isomorphic-strings](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0205-isomorphic-strings/) | Easy |
 | [0229-majority-element-ii](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0229-majority-element-ii/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
