@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/surajbhan1309/My-_Leetcode/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/surajbhan1309/My-_Leetcode/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/surajbhan1309/My-_Leetcode/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
+| [3325-count-substrings-with-k-frequency-characters-i](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3325-count-substrings-with-k-frequency-characters-i/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -136,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2121-intervals-between-identical-elements](https://github.com/surajbhan1309/My-_Leetcode/tree/main/2121-intervals-between-identical-elements/) | Medium |
 | [2615-sum-of-distances](https://github.com/surajbhan1309/My-_Leetcode/tree/main/2615-sum-of-distances/) | Medium |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/surajbhan1309/My-_Leetcode/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
+| [3325-count-substrings-with-k-frequency-characters-i](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3325-count-substrings-with-k-frequency-characters-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 ## Stack
@@ -331,6 +333,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0003-longest-substring-without-repeating-characters](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
 | [1004-max-consecutive-ones-iii](https://github.com/surajbhan1309/My-_Leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [3325-count-substrings-with-k-frequency-characters-i](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3325-count-substrings-with-k-frequency-characters-i/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
