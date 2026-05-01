@@ -1,31 +1,25 @@
 class Solution {
 public:
     string reverseWords(string s) {
-        stack<string> st;
-        string str = "";
-        for (int i = 0; i < s.length(); i++) {
-            if (s[i] != ' ') {
-                str += s[i];
-            } 
-            else if (!str.empty()) {
-                st.push(str);
-                str = "";
+        reverse(s.begin(),s.end());
+        string ans="";
+        int n=s.size();
+        int start=0;
+        while(start<n){
+            if(start<n && s[start]==' ') start++;
+            int end=start;
+            while(end<n && s[end]!=' ') end++;
+            if(start<end){
+                //if there are multiple spaces then start==end and ans will have extra spaces
+                //so condition of start<end
+                string word=s.substr(start,end-start);
+                reverse(word.begin(),word.end());
+                if(!ans.empty()) ans+=" ";
+                ans+=word;
             }
+            start=end;
         }
-        // Last word
-        if (!str.empty()) {
-            st.push(str);
-        }
-
-        string str2;
-        while (!st.empty()) {
-            str2 += st.top();
-            st.pop();
-            if (!st.empty()) {
-                str2 += ' ';
-            }
-        }
-
-        return str2;
+        return ans;
+        
     }
 };
