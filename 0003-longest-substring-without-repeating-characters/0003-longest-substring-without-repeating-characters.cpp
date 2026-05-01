@@ -6,7 +6,7 @@ public:
         unordered_map<char,int>f;
         for(int right=0;right<s.size();right++){
             f[s[right]]++;
-            while(f[s[right]]>1){
+            while(left<right && f[s[right]]>1){
                 f[s[left]]--;
                 left++;
             }
