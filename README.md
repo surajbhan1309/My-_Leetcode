@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0657-robot-return-to-origin](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0692-top-k-frequent-words/) | Medium |
+| [0796-rotate-string](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0796-rotate-string/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/surajbhan1309/My-_Leetcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1048-longest-string-chain](https://github.com/surajbhan1309/My-_Leetcode/tree/main/1048-longest-string-chain/) | Medium |
 | [1092-shortest-common-supersequence](https://github.com/surajbhan1309/My-_Leetcode/tree/main/1092-shortest-common-supersequence/) | Hard |
@@ -457,4 +458,8 @@ Collection of LeetCode questions to ace the coding interview!
 | [0584-find-customer-referee](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0584-find-customer-referee/) | Easy |
 | [0595-big-countries](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0595-big-countries/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/surajbhan1309/My-_Leetcode/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0796-rotate-string](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0796-rotate-string/) | Easy |
 <!---LeetCode Topics End-->
