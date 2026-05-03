@@ -1,18 +1,21 @@
 class Solution {
 public:
     int SumofPrimes(int L, int R) {
-    vector<bool> prime(R + 1, true);
-    prime[0] = prime[1] = false;
+        vector<bool>prime(R+1,true);
+        prime[0]=false;
+        prime[1]=false;
+        for(int i=2;i*i<=R;i++){
+            if(prime[i]){
+                for(int j=i*i;j<=R;j+=i){
+                    prime[j]=false;
+                }
+            }
+        }
 
-    for (int i = 2; i * i <= R; i++)
-        if (prime[i])
-            for (int j = i * i; j <= R; j += i)
-                prime[j] = false;
-
-    int sum= 0;
-    for (int i = L; i <= R; i++)
-        if (prime[i]) sum+=i;
-    return sum;
+        int sum= 0;
+        for (int i = L; i <= R; i++)
+            if (prime[i]) sum+=i;
+        return sum;
 }
     int sumOfPrimesInRange(int n) {
         string revstr=to_string(n);
