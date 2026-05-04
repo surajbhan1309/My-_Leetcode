@@ -9,7 +9,7 @@ public:
         for(int right=0;right<n;right++){
             map[s[right]]++;
             maxfreq=max(maxfreq,map[s[right]]);
-            while(maxfreq+k<(right-left+1)){
+            while((right-left+1)-maxfreq>k){
                 map[s[left]]--;
                 left++;
             }
