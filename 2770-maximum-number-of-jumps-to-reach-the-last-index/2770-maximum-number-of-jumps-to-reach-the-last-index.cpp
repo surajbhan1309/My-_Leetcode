@@ -10,7 +10,7 @@ public:
         for(int i=1; i<n; i++) {
             for(int j=0; j<i; j++) {
                 // Check if the condition holds true and prev index was visited
-                if(abs(nums[i]-nums[j]) <= target && dp[j]>-1) {
+                if(abs(nums[i]-nums[j]) <= target && dp[j]!=-1) {
                     dp[i] = max(dp[i], 1+dp[j]);
                 }
             }
