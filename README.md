@@ -117,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2452-words-within-two-edits-of-dictionary](https://github.com/surajbhan1309/My-_Leetcode/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/surajbhan1309/My-_Leetcode/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2615-sum-of-distances](https://github.com/surajbhan1309/My-_Leetcode/tree/main/2615-sum-of-distances/) | Medium |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/surajbhan1309/My-_Leetcode/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [2906-construct-product-matrix](https://github.com/surajbhan1309/My-_Leetcode/tree/main/2906-construct-product-matrix/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/surajbhan1309/My-_Leetcode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
@@ -242,6 +243,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1143-longest-common-subsequence](https://github.com/surajbhan1309/My-_Leetcode/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/surajbhan1309/My-_Leetcode/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/surajbhan1309/My-_Leetcode/tree/main/2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/surajbhan1309/My-_Leetcode/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3660-jump-game-ix](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3660-jump-game-ix/) | Medium |
 ## Bit Manipulation
