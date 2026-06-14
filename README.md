@@ -61,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0031-next-permutation](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0031-next-permutation/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0039-combination-sum](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0039-combination-sum/) | Medium |
+| [0040-combination-sum-ii](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0040-combination-sum-ii/) | Medium |
 | [0042-trapping-rain-water](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0049-group-anagrams](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0063-unique-paths-ii](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0063-unique-paths-ii/) | Medium |
@@ -356,6 +357,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0039-combination-sum](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0039-combination-sum/) | Medium |
+| [0040-combination-sum-ii](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0040-combination-sum-ii/) | Medium |
 | [0090-subsets-ii](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0090-subsets-ii/) | Medium |
 | [0216-combination-sum-iii](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0216-combination-sum-iii/) | Medium |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
