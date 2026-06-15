@@ -16,20 +16,16 @@ public:
             return nullptr;
         }
 
-        ListNode* slow = head;
-        ListNode* fast = head;
-        ListNode* link = nullptr;
+        ListNode* slow=head;
+        ListNode* fast=head;
+        ListNode* link=nullptr;
 
-        // Find the middle node using the slow and fast pointer technique
-        while (fast != nullptr && fast->next != nullptr) {
-            link = slow;
-            slow = slow->next;
-            fast = fast->next->next;
+        while(fast!=NULL && fast->next!=NULL){
+            link=slow;
+            slow=slow->next;
+            fast=fast->next->next;
         }
-
-        // Deleting the middle node by skipping over it
-        link->next = slow->next;
-        
+        link->next=slow->next;
         return head;
     }
 };
