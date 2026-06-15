@@ -1,46 +1,56 @@
 class Solution {
 public:
     vector<int> findMinHeightTrees(int n, vector<vector<int>>& edges) {
-        if (n == 1)
-            return {0};
+        if (n == 1) return {0};
 
-        queue<int> q;
         vector<vector<int>> adj(n);
-        vector<int> Indeg(n, 0);
-        for (auto& e : edges) {
-            adj[e[0]].push_back(e[1]);
-            adj[e[1]].push_back(e[0]);
-            Indeg[e[0]]++;
-            Indeg[e[1]]++;
+        vector<int> degree(n, 0);
+        queue<int> q;
+
+        // Build graph
+        for (auto &edge : edges) {
+            int u = edge[0];
+            int v = edge[1];
+
+            adj[u].push_back(v);
+            adj[v].push_back(u);
+
+            degree[u]++;
+            degree[v]++;
         }
 
+        // Push all leaf nodes
         for (int i = 0; i < n; i++) {
-            if (Indeg[i] == 1) {
+            if (degree[i] == 1)
                 q.push(i);
-            }
         }
 
-        while (n > 2) {
-            int size = q.size();
-            n -= size;
-            while (size--) {
+        int remainingNodes = n;
+
+        while (remainingNodes > 2) {
+            int leaves = q.size();
+            remainingNodes -= leaves;
+
+            while (leaves--) {
                 int node = q.front();
                 q.pop();
 
-                for (int j = 0; j < adj[node].size(); j++) {
-                    Indeg[adj[node][j]]--;
-                    if (Indeg[adj[node][j]] == 1) {
-                        q.push(adj[node][j]);
-                    }
+                for (int neighbor : adj[node]) {
+                    degree[neighbor]--;
+
+                    if (degree[neighbor] == 1)
+                        q.push(neighbor);
                 }
             }
         }
 
-        vector<int> ans;
+        vector<int> result;
+
         while (!q.empty()) {
-            ans.push_back(q.front());
+            result.push_back(q.front());
             q.pop();
         }
-        return ans;
+
+        return result;
     }
 };
