@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0202-happy-number](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0202-happy-number/) | Easy |
 | [1048-longest-string-chain](https://github.com/surajbhan1309/My-_Leetcode/tree/main/1048-longest-string-chain/) | Medium |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/surajbhan1309/My-_Leetcode/tree/main/2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/surajbhan1309/My-_Leetcode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/surajbhan1309/My-_Leetcode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## String
@@ -536,4 +537,8 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0310-minimum-height-trees](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0310-minimum-height-trees/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/surajbhan1309/My-_Leetcode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 <!---LeetCode Topics End-->
