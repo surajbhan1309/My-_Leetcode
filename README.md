@@ -154,6 +154,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0692-top-k-frequent-words](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1048-longest-string-chain](https://github.com/surajbhan1309/My-_Leetcode/tree/main/1048-longest-string-chain/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/surajbhan1309/My-_Leetcode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [2013-detect-squares](https://github.com/surajbhan1309/My-_Leetcode/tree/main/2013-detect-squares/) | Medium |
@@ -303,6 +304,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0451-sort-characters-by-frequency](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0621-task-scheduler](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0621-task-scheduler/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0692-top-k-frequent-words/) | Medium |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1048-longest-string-chain](https://github.com/surajbhan1309/My-_Leetcode/tree/main/1048-longest-string-chain/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/surajbhan1309/My-_Leetcode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/surajbhan1309/My-_Leetcode/tree/main/2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard |
@@ -412,6 +414,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0700-search-in-a-binary-search-tree](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -419,6 +422,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0200-number-of-islands](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0310-minimum-height-trees](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0310-minimum-height-trees/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1306-jump-game-iii](https://github.com/surajbhan1309/My-_Leetcode/tree/main/1306-jump-game-iii/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/surajbhan1309/My-_Leetcode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/surajbhan1309/My-_Leetcode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
@@ -430,6 +434,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0200-number-of-islands](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0310-minimum-height-trees](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0310-minimum-height-trees/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1306-jump-game-iii](https://github.com/surajbhan1309/My-_Leetcode/tree/main/1306-jump-game-iii/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/surajbhan1309/My-_Leetcode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/surajbhan1309/My-_Leetcode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
@@ -444,6 +449,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0700-search-in-a-binary-search-tree](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
