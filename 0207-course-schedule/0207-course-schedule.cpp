@@ -1,32 +1,34 @@
 class Solution {
 public:
-    bool dfs(int node, vector<vector<int>>& adj, vector<int>& state) {
-        if (state[node] == 1) return false; // cycle found
-        if (state[node] == 2) return true;  // already processed
+    bool dfs(int node, vector<vector<int>>& adj, vector<int>& vis) {
+        vis[node] = 1; // visiting
 
-        state[node] = 1; // visiting
+        for (int next : adj[node]) {
+            if (vis[next] == 1) return false; // cycle
 
-        for (int i : adj[node]) {
-            if (!dfs(i, adj, state))
-                return false;
+            if (vis[next] == 0) {
+                if (!dfs(next, adj, vis))
+                    return false;
+            }
         }
 
-        state[node] = 2; // visited
+        vis[node] = 2; // done
         return true;
     }
 
     bool canFinish(int numCourses, vector<vector<int>>& prerequisites) {
         vector<vector<int>> adj(numCourses);
 
-        for (auto &p : prerequisites) {
+        for (auto &p : prerequisites)
             adj[p[0]].push_back(p[1]);
-        }
 
-        vector<int> state(numCourses, 0);
+        vector<int> vis(numCourses, 0);
 
         for (int i = 0; i < numCourses; i++) {
-            if (!dfs(i, adj, state))
-                return false;
+            if (vis[i] == 0) {
+                if (!dfs(i, adj, vis))
+                    return false;
+            }
         }
 
         return true;
