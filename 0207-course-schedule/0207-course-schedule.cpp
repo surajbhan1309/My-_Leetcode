@@ -26,7 +26,7 @@ public:
 
         for (int i = 0; i < numCourses; i++) {
             if (vis[i] == 0) {
-                if (!dfs(i, adj, vis))
+                if (dfs(i, adj, vis)==false)
                     return false;
             }
         }
