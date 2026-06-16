@@ -142,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0049-group-anagrams](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0133-clone-graph](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0133-clone-graph/) | Medium |
 | [0202-happy-number](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0202-happy-number/) | Easy |
 | [0205-isomorphic-strings](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0205-isomorphic-strings/) | Easy |
 | [0229-majority-element-ii](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0229-majority-element-ii/) | Medium |
@@ -420,6 +421,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0133-clone-graph](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0133-clone-graph/) | Medium |
 | [0200-number-of-islands](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0310-minimum-height-trees](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0310-minimum-height-trees/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
@@ -432,6 +434,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0133-clone-graph](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0133-clone-graph/) | Medium |
 | [0200-number-of-islands](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0310-minimum-height-trees](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0310-minimum-height-trees/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
@@ -532,6 +535,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0133-clone-graph](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0133-clone-graph/) | Medium |
 | [0310-minimum-height-trees](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0310-minimum-height-trees/) | Medium |
 ## Topological Sort
 | Problem Name | Difficulty |
