@@ -1,34 +1,29 @@
 class Solution {
 public:
-    bool canFinish(int n, vector<vector<int>>& prerequisites) {
-        vector<int> adj[n];
-        vector<int> indegree(n, 0);
-        vector<int> ans;
-
-        for(auto x: prerequisites){
-            adj[x[0]].push_back(x[1]);
-            indegree[x[1]]++;
+    bool canFinish(int numCourses, vector<vector<int>>& prerequisites) {
+        int n=numCourses;
+        vector<int>indeg(n,0);
+        vector<int>topo;
+        vector<vector<int>>adj(n);
+        queue<int>q;
+        for(auto x:prerequisites){
+            adj[x[1]].push_back(x[0]);
+            indeg[x[0]]++;
         }
-
-        queue<int> q;
-        for(int i = 0; i < n; i++){
-            if(indegree[i] == 0){
-                q.push(i);
-            }
+        for(int i=0;i<n;i++){
+            if(indeg[i]==0) q.push(i);
         }
-
         while(!q.empty()){
-            auto t = q.front();
-            ans.push_back(t);
+            int u=q.front();
             q.pop();
-
-            for(auto x: adj[t]){
-                indegree[x]--;
-                if(indegree[x] == 0){
-                    q.push(x);
+            topo.push_back(u);
+            for(auto v:adj[u]){
+                indeg[v]--;
+                if(indeg[v]==0){
+                    q.push(v);
                 }
             }
         }
-        return ans.size() == n;
+        return topo.size()==n;
     }
 };
