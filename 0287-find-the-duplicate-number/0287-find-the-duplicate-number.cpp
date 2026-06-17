@@ -1,31 +1,22 @@
 class Solution {
 public:
     int findDuplicate(vector<int>& nums) {
-        int slow=0;
-        int fast=0;
-        do{
-            slow=nums[slow];
-            fast=nums[nums[fast]];
+        int slow = nums[0];
+        int fast = nums[nums[0]];
+        
+        // Phase 1: Finding the intersection point inside the cycle
+        while (slow != fast) {
+            slow = nums[slow];
+            fast = nums[nums[fast]];
         }
-        while(slow!=fast);
-
-        fast=0;
-        while(slow!=fast){
-            slow=nums[slow];
-            fast=nums[fast];
+        
+        // Phase 2: Finding the entrance to the cycle (the duplicate number)
+        fast = 0; 
+        while (slow != fast) {
+            slow = nums[slow];
+            fast = nums[fast];
         }
+        
         return slow;
-
     }
 };
-// Approach
-// Treat the array as a linked list where each element points to the next index.
-// Initialize two pointers, slow and fast, at the starting position.
-// Move:
-// slow one step at a time.
-// fast two steps at a time.
-// Since a cycle exists, the two pointers will eventually meet inside the cycle.
-// Reset one pointer (fast) to the start.
-// Move both pointers one step at a time.
-// The point where they meet again is the entrance of the cycle, which corresponds to the duplicate number.
-// Return that value.
