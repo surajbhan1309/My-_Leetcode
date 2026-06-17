@@ -1,34 +1,28 @@
 class Solution {
 public:
-    int n, m;
-
-    void dfs(int i, int j, vector<vector<char>>& grid){
-        if(i < 0 || j < 0 || i >= n || j >= m || grid[i][j] == '0')
-            return;
-
-        grid[i][j] = '0'; // mark visited
-
-        dfs(i+1, j, grid);
-        dfs(i-1, j, grid);
-        dfs(i, j+1, grid);
-        dfs(i, j-1, grid);
-    }
-
     int numIslands(vector<vector<char>>& grid) {
-        n = grid.size();
-        m = grid[0].size();
-
-        int islands = 0;
-
-        for(int i = 0; i < n; i++){
-            for(int j = 0; j < m; j++){
-                if(grid[i][j] == '1'){
-                    islands++;
-                    dfs(i, j, grid);
+        int n=grid.size();
+        int m=grid[0].size();
+        int isIsland=0;
+        for(int i=0;i<n;i++){
+            for(int j=0;j<m;j++){
+                if(grid[i][j]=='1'){
+                    isIsland++;
+                    dfs(grid,i,j,n,m);
                 }
             }
         }
+        return isIsland;
+    }
+    void dfs(vector<vector<char>>& grid,int i,int j,int n,int m){
+        if(i<0 || i>=n || j<0 || j>=m || grid[i][j]=='0') return ;
 
-        return islands;
+        grid[i][j]='0';
+
+        dfs(grid,i+1,j,n,m);
+        dfs(grid,i-1,j,n,m);
+        dfs(grid,i,j-1,n,m);
+        dfs(grid,i,j+1,n,m);
+
     }
 };
