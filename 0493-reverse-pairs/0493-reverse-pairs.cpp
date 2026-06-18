@@ -24,6 +24,11 @@ public:
             cnt += (j - (m + 1));
         }
         return cnt;
+        // (m+1) = starting index of right half
+        // j stops where condition breaks
+
+        // So:
+        // 👉 number of valid elements = j - (m+1)
     }
 
     void merge(vector<int>& nums, int l, int m, int r) {
