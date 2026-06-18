@@ -9,17 +9,16 @@ public:
             int mid=low+(high-low)/2;
             int row=mid/m;
             int col=mid%m;
-            if(matrix[row][col]==target){
+            if(target<matrix[row][col]){
+                high=mid-1;
+            }
+            else if (matrix[row][col] == target){
                 return true;
             }
-            if(target>matrix[row][col]){
-                low=mid+1;
-            }
             else{
-                high=mid-1;
+                low=mid+1;
             }
         }
         return false;
-        
     }
 };
