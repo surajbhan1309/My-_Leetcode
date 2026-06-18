@@ -286,6 +286,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0048-rotate-image](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0048-rotate-image/) | Medium |
+| [0050-powx-n](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0050-powx-n/) | Medium |
 | [0062-unique-paths](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0202-happy-number](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0202-happy-number/) | Easy |
@@ -296,6 +297,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0050-powx-n](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0050-powx-n/) | Medium |
 | [0231-power-of-two](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0231-power-of-two/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
