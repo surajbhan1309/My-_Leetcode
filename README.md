@@ -125,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1559-detect-cycles-in-2d-grid](https://github.com/surajbhan1309/My-_Leetcode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/surajbhan1309/My-_Leetcode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/surajbhan1309/My-_Leetcode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
+| [1732-find-the-highest-altitude](https://github.com/surajbhan1309/My-_Leetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/surajbhan1309/My-_Leetcode/tree/main/1827-minimum-operations-to-make-the-array-increasing/) | Easy |
 | [2013-detect-squares](https://github.com/surajbhan1309/My-_Leetcode/tree/main/2013-detect-squares/) | Medium |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/surajbhan1309/My-_Leetcode/tree/main/2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard |
@@ -376,6 +377,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0560-subarray-sum-equals-k](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/surajbhan1309/My-_Leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1732-find-the-highest-altitude](https://github.com/surajbhan1309/My-_Leetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [2121-intervals-between-identical-elements](https://github.com/surajbhan1309/My-_Leetcode/tree/main/2121-intervals-between-identical-elements/) | Medium |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/surajbhan1309/My-_Leetcode/tree/main/2588-count-the-number-of-beautiful-subarrays/) | Medium |
 | [2615-sum-of-distances](https://github.com/surajbhan1309/My-_Leetcode/tree/main/2615-sum-of-distances/) | Medium |
