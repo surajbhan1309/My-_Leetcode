@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0015-3sum](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0018-4sum/) | Medium |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0031-next-permutation](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0031-next-permutation/) | Medium |
 | [0042-trapping-rain-water](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0075-sort-colors](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0075-sort-colors/) | Medium |
@@ -591,6 +592,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
