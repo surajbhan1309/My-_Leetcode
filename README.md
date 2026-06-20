@@ -306,6 +306,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0050-powx-n](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0050-powx-n/) | Medium |
+| [0206-reverse-linked-list](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0231-power-of-two](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0231-power-of-two/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -588,5 +589,6 @@ Collection of LeetCode questions to ace the coding interview!
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0206-reverse-linked-list/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/surajbhan1309/My-_Leetcode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 <!---LeetCode Topics End-->
