@@ -11,6 +11,6 @@ public:
                 }
             }
         }
-        return minCoins[amount] != amount + 1 ? minCoins[amount] : -1;
+        return minCoins[amount] > amount  ? -1 : minCoins[amount]; 
     }
 };
