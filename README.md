@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0151-reverse-words-in-a-string](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0202-happy-number](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0202-happy-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0295-find-median-from-data-stream](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0455-assign-cookies](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [1048-longest-string-chain](https://github.com/surajbhan1309/My-_Leetcode/tree/main/1048-longest-string-chain/) | Medium |
@@ -367,6 +368,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0215-kth-largest-element-in-an-array](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0229-majority-element-ii](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0242-valid-anagram/) | Easy |
+| [0295-find-median-from-data-stream](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0368-largest-divisible-subset](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0368-largest-divisible-subset/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
@@ -547,11 +549,13 @@ Collection of LeetCode questions to ace the coding interview!
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0295-find-median-from-data-stream](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0901-online-stock-span](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0901-online-stock-span/) | Medium |
 | [2013-detect-squares](https://github.com/surajbhan1309/My-_Leetcode/tree/main/2013-detect-squares/) | Medium |
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0295-find-median-from-data-stream](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0901-online-stock-span](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0901-online-stock-span/) | Medium |
 | [2013-detect-squares](https://github.com/surajbhan1309/My-_Leetcode/tree/main/2013-detect-squares/) | Medium |
 ## Heap (Priority Queue)
@@ -559,6 +563,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0295-find-median-from-data-stream](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0621-task-scheduler](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0621-task-scheduler/) | Medium |
