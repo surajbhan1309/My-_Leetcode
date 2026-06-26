@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0008-string-to-integer-atoi](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0013-roman-to-integer](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
+| [0020-valid-parentheses](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0049-group-anagrams](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0072-edit-distance](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0072-edit-distance/) | Medium |
 | [0091-decode-ways](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0091-decode-ways/) | Medium |
@@ -205,6 +206,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0042-trapping-rain-water](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0225-implement-stack-using-queues](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0496-next-greater-element-i](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
