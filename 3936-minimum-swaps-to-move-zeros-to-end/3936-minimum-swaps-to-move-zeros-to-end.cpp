@@ -8,9 +8,10 @@ public:
         }
         int ans=count;
         int c=0;
-        for(int i=n-1;i>=0 && count>0;i--){
-            if(nums[i]==0) c++;
-            count--;
+        int j=n-1;
+        while(count--){
+            if(nums[j]==0) c++;
+            j--;
         }
         return ans-c;
 
