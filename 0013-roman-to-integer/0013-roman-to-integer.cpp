@@ -12,16 +12,15 @@ public:
     }
 
     int romanToInt(string s) {
-        int curr_value = 0;
-
-        for (int i = 0; i < s.length(); i++) {
-            if (i + 1 < s.length() && value(s[i]) < value(s[i + 1])) {
-                curr_value -= value(s[i]);
-            } else {
-                curr_value += value(s[i]);
+        int val=0;
+        for(int i=0;i<s.size();i++){
+            if(i+1<s.size() && value(s[i])<value(s[i+1])){
+                val-=value(s[i]);
+            }
+            else{
+                val+=value(s[i]);
             }
         }
-
-        return curr_value;
+        return val;
     }
 };
