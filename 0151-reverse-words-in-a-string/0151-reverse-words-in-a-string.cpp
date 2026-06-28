@@ -3,19 +3,17 @@ public:
     string reverseWords(string s) {
         reverse(s.begin(),s.end());
         string ans="";
-        int n=s.size();
         int start=0;
+        int n=s.size();
         while(start<n){
             if(start<n && s[start]==' ') start++;
             int end=start;
             while(end<n && s[end]!=' ') end++;
             if(start<end){
-                //if there are multiple spaces then start==end and ans will have extra spaces
-                //so condition of start<end
-                string word=s.substr(start,end-start);
-                reverse(word.begin(),word.end());
+                string temp=s.substr(start,end-start);
+                reverse(temp.begin(),temp.end());
                 if(!ans.empty()) ans+=" ";
-                ans+=word;
+                ans+=temp;
             }
             start=end;
         }
