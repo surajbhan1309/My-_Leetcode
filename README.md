@@ -180,6 +180,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0133-clone-graph](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0133-clone-graph/) | Medium |
+| [0146-lru-cache](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0146-lru-cache/) | Medium |
 | [0169-majority-element](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0202-happy-number](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0202-happy-number/) | Easy |
 | [0205-isomorphic-strings](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0205-isomorphic-strings/) | Easy |
@@ -561,6 +562,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0146-lru-cache](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0146-lru-cache/) | Medium |
 | [0155-min-stack](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0155-min-stack/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0295-find-median-from-data-stream](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0295-find-median-from-data-stream/) | Hard |
@@ -657,6 +659,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0019-remove-nth-node-from-end-of-list](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0061-rotate-list](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0061-rotate-list/) | Medium |
+| [0146-lru-cache](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0146-lru-cache/) | Medium |
 | [0206-reverse-linked-list](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
@@ -666,4 +669,8 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Doubly-Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0146-lru-cache](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0146-lru-cache/) | Medium |
 <!---LeetCode Topics End-->
