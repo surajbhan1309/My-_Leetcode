@@ -2,6 +2,7 @@ class Solution {
 public:
     string countAndSay(int n) {
         string res="1";
+        int count=1;
         for(int i=1;i<n;i++){
             string temp="";
             int count=1;
