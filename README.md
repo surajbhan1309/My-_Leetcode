@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0072-edit-distance](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0072-edit-distance/) | Medium |
 | [0091-decode-ways](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0091-decode-ways/) | Medium |
 | [0115-distinct-subsequences](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0115-distinct-subsequences/) | Hard |
+| [0131-palindrome-partitioning](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0165-compare-version-numbers](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0165-compare-version-numbers/) | Medium |
 | [0205-isomorphic-strings](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0205-isomorphic-strings/) | Easy |
@@ -297,6 +298,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0118-pascals-triangle](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0118-pascals-triangle/) | Easy |
 | [0120-triangle](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0120-triangle/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0131-palindrome-partitioning](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0198-house-robber](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0198-house-robber/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
@@ -457,6 +459,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0040-combination-sum-ii](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0040-combination-sum-ii/) | Medium |
 | [0078-subsets](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0090-subsets-ii/) | Medium |
+| [0131-palindrome-partitioning](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0216-combination-sum-iii](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0216-combination-sum-iii/) | Medium |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
 ## Enumeration
