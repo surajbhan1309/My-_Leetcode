@@ -83,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0039-combination-sum](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0040-combination-sum-ii/) | Medium |
 | [0042-trapping-rain-water](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
+| [0046-permutations](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0046-permutations/) | Medium |
 | [0048-rotate-image](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0053-maximum-subarray/) | Medium |
@@ -457,6 +458,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0039-combination-sum](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0040-combination-sum-ii/) | Medium |
+| [0046-permutations](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0046-permutations/) | Medium |
 | [0078-subsets](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0090-subsets-ii/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0131-palindrome-partitioning/) | Medium |
