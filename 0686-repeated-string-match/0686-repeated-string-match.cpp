@@ -1,47 +1,82 @@
 class Solution {
 private:
-    int BASE=1000000;
-public:
-    int repeatedStringMatch(string A, string B) {
-        if(A==B) return 1;
-        int count=1;
-        string source=A;
-        while(source.size()<B.size()){
-            count++;
-            source+=A;
-        }
-        if(source==B) return count;
-        if(Rabin_Karp(source,B)!=-1) return count;
-        if(Rabin_Karp(source+A,B)!=-1) return count+1;
-        return -1;
-    }
-    int Rabin_Karp(string source, string target){
-        if(source=="" or target=="") return -1;
-        int m=target.size();
-        int power=1;
-        for(int i=0;i<m;i++){
-            power=(power*31)%BASE;
-        }
-        int targetCode=0;
-        for(int i=0;i<m;i++){
-            targetCode=(targetCode*31+target[i])%BASE;
-        }
-        int hashCode=0;
-        for(int i=0;i<source.size();i++){
-            hashCode=(hashCode*31+source[i])%BASE;
-            if(i<m-1) continue;
-            if(i>=m){
-                hashCode=(hashCode-source[i-m]*power)%BASE;
-            }
-            if(hashCode<0){
-                hashCode+=BASE;
-            }
-            if(hashCode==targetCode){
-                if(source.substr(i-m+1,m)==target){
-                    return i-m+1;
+    vector<int> computeLPSArray(const string& pattern) {
+        int m = pattern.length();
+        vector<int> lps(m, 0);
+        int len = 0;
+        int i = 1;
+
+        while (i < m) {
+            if (pattern[i] == pattern[len]) {
+                len++;
+                lps[i] = len;
+                i++;
+            } else {
+                if (len != 0) {
+                    len = lps[len - 1];
+                } else {
+                    lps[i] = 0;
+                    i++;
                 }
             }
         }
+        return lps;
+    }
+
+    bool kmpSearch(const string& text, const string& pattern) {
+        int n = text.length();
+        int m = pattern.length();
+        if (m == 0) return true;
+        if (n == 0) return false;
+
+        vector<int> lps = computeLPSArray(pattern);
+        int i = 0; // index for text
+        int j = 0; // index for pattern
+
+        while (i < n) {
+            if (pattern[j] == text[i]) {
+                i++;
+                j++;
+            }
+            if (j == m) {
+                return true; // Match found
+            } 
+            else if (i < n && pattern[j] != text[i]) {
+                if (j != 0) {
+                    j = lps[j - 1];
+                } else {
+                    i++;
+                }
+            }
+        }
+        return false;
+    }
+
+public:
+    int repeatedStringMatch(string a, string b) {
+        int lenA = a.length();
+        int lenB = b.length();
+        
+        // Calculate the base number of repetitions needed
+        int minReps = (lenB + lenA - 1) / lenA;
+        
+        // Build the text for minimum repetitions
+        string repeatedA = "";
+        for (int i = 0; i < minReps; i++) {
+            repeatedA += a;
+        }
+        
+        // Check 1: Find b in a * minReps
+        if (kmpSearch(repeatedA, b)) {
+            return minReps;
+        }
+        
+        // Check 2: Find b in a * (minReps + 1)
+        repeatedA += a;
+        if (kmpSearch(repeatedA, b)) {
+            return minReps + 1;
+        }
+        
         return -1;
     }
 };
