@@ -1,61 +1,66 @@
 class Solution {
 public:
     int minimumDifference(vector<int>& nums) {
-        int n = nums.size() / 2;
-        int total = accumulate(nums.begin(), nums.end(), 0);
+        int n = nums.size();
+        vector<int>left,right;
 
-        vector<vector<int>> left(n + 1), right(n + 1);
+        for(int i=0;i<n/2;i++) left.push_back(nums[i]);
+        for(int i=n/2;i<n;i++) right.push_back(nums[i]);
 
-        // Generate subset sums for left half
-        for (int mask = 0; mask < (1 << n); mask++) {
-            int sum = 0, cnt = 0;
-            for (int i = 0; i < n; i++) {
-                if (mask & (1 << i)) {
-                    sum += nums[i];
-                    cnt++;
-                }
-            }
-            left[cnt].push_back(sum);
-        }
+        vector<vector<int>>leftSum((n/2)+1);
+        vector<vector<int>>rightSum((n/2)+1);
 
-        // Generate subset sums for right half
-        for (int mask = 0; mask < (1 << n); mask++) {
-            int sum = 0, cnt = 0;
-            for (int i = 0; i < n; i++) {
-                if (mask & (1 << i)) {
-                    sum += nums[i + n];
-                    cnt++;
-                }
-            }
-            right[cnt].push_back(sum);
-        }
+        generateSums(left,leftSum);
+        generateSums(right,rightSum);
 
-        // Sort right subsets for binary search
-        for (int i = 0; i <= n; i++) {
-            sort(right[i].begin(), right[i].end());
-        }
-
+        for(int i=0;i<rightSum.size();i++) sort(rightSum[i].begin(),rightSum[i].end());
+        int total = accumulate(nums.begin(),nums.end(),0);
+    
         int ans = INT_MAX;
+        for(int k=0;k<=n/2;k++)
+        {
+            int leftSide = k;
+            int rightSide = n/2-k;
 
-        // Try all valid combinations
-        for (int k = 0; k <= n; k++) {
-            for (int s1 : left[k]) {
-                int need = (total / 2) - s1;
-                auto& vec = right[n - k];
-                auto it = lower_bound(vec.begin(), vec.end(), need);
-
-                if (it != vec.end()) {//this only gives sum>=need
-                    int s2 = *it;
-                    ans = min(ans, abs(total - 2 * (s1 + s2)));
+            for(auto &curr1 : leftSum[k])
+            {
+                auto &vec = rightSum[rightSide];
+                int need = total/2 - curr1;
+                auto it = lower_bound(vec.begin(),vec.end(),need);
+                if(it!=vec.end())
+                {
+                    int selected = curr1 + *it;
+                    ans = min(ans,abs(total-2*selected));
                 }
 
-                if (it != vec.begin()) { //by this sum>need by taking removing previous
-                    --it;
-                    int s2 = *it;
-                    ans = min(ans, abs(total - 2 * (s1 + s2)));
+                if(it!=vec.begin())
+                {
+                    it--;
+                    int selected = curr1 + *it;
+                    ans = min(ans,abs(total-2*selected));
                 }
             }
         }
+
         return ans;
+    }
+    
+    void generateSums(vector<int> &arr, vector<vector<int>> &sum)
+    {
+        int n = arr.size();
+        for(int mask=0;mask<(1<<n);mask++)
+        {
+            int total = 0;
+            int cnt =0;
+            for(int i=0;i<n;i++)
+            {
+                if(mask & (1<<i))
+                {
+                    cnt++;
+                    total+=arr[i];
+                }
+            }
+            sum[cnt].push_back(total);
+        }
     }
 };
