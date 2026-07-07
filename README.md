@@ -530,6 +530,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0098-validate-binary-search-tree](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
@@ -551,6 +552,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0098-validate-binary-search-tree](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0133-clone-graph](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0133-clone-graph/) | Medium |
@@ -592,6 +594,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0098-validate-binary-search-tree](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
@@ -619,6 +622,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0098-validate-binary-search-tree](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0450-delete-node-in-a-bst/) | Medium |
