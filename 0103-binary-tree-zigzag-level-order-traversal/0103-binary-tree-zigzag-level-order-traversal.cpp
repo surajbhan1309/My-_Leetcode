@@ -19,19 +19,18 @@ public:
         bool LtoR=true;
         while(!q.empty()){
             int n=q.size();
-            vector<int>level(n);
+            vector<int>v(n);
             for(int i=0;i<n;i++){
-                TreeNode* node=q.front();
+                auto node=q.front();
                 q.pop();
-                int index=LtoR?i:n-1-i;
-                level[index]=node->val;
+                int index=LtoR?i:n-i-1;
+                v[index]=node->val;
                 if(node->left) q.push(node->left);
                 if(node->right) q.push(node->right);
             }
-            ans.push_back(level);
+            ans.push_back(v);
             LtoR=!LtoR;
         }
         return ans;
-
     }
 };
