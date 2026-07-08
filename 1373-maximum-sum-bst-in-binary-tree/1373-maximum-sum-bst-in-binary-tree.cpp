@@ -9,48 +9,37 @@
  *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
-class Box {
+class NodeValue {
 public:
-    bool bst;
-    int sum;
-    int max_val, min_val;
-
-    Box() {
-        bst = true;
-        sum = 0;
-        max_val = INT_MIN;
-        min_val = INT_MAX;
+    int minNode, maxNode, sum;
+    NodeValue(int minNode, int maxNode, int sum) {
+        this->minNode = minNode;
+        this->maxNode = maxNode;
+        this->sum = sum;
     }
 };
-
 class Solution {
 public:
-    Box find(TreeNode* root, int& tsum) {
-        if (!root)
-            return Box();
-
-        Box lh = find(root->left, tsum);
-        Box rh = find(root->right, tsum);
-
-        if (lh.bst && rh.bst && lh.max_val < root->val && rh.min_val > root->val) {
-            Box head;
-            head.sum = root->val + lh.sum + rh.sum;
-            head.min_val = min(lh.min_val, root->val);
-            head.max_val = max(rh.max_val, root->val);
-
-            tsum = max(tsum, head.sum);
-            return head;
-        } 
-        else {
-            Box head;
-            head.bst = false;
-            return head;
+    NodeValue f(TreeNode* root, int& ans) {
+        if (!root) {
+            return NodeValue(INT_MAX, INT_MIN, 0);
         }
+        auto l = f(root->left, ans);
+        auto r = f(root->right, ans);
+        if (root->val > l.maxNode && root->val < r.minNode) {
+            int currSum = l.sum + r.sum + root->val;
+            ans = max(ans, currSum);
+            return NodeValue(
+                min(root->val, l.minNode),
+                max(root->val, r.maxNode),
+                currSum
+            );
+        }
+        return NodeValue(INT_MIN, INT_MAX, max(l.sum, r.sum));
     }
-
     int maxSumBST(TreeNode* root) {
-        int sum = 0;
-        find(root, sum);
-        return sum;
+        int ans = 0;
+        f(root, ans);
+        return ans;
     }
 };
