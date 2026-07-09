@@ -2,25 +2,21 @@ class Solution {
 public:
     int dp[201][20001];
     bool canPartition(vector<int>& nums) {
-        int n=nums.size();
-        int sum=accumulate(nums.begin(),nums.end(),0);
-        if(sum&1){
-            return false;
-        }
         memset(dp,-1,sizeof(dp));
-        int x=sum/2;
-        return solve(0,x,nums);
+        int sum=accumulate(nums.begin(),nums.end(),0);
+        if(sum&1) return false;
+        int half=sum/2;
+        return solve(half,nums,0);
     }
-    bool solve(int i,int target,vector<int>&nums){
+    bool solve(int target,vector<int>&nums,int i){
         if(target==0) return true;
         if(i>=nums.size()) return false;
         if(dp[i][target]!=-1) return dp[i][target];
         bool take=false;
         if(nums[i]<=target){
-            take=solve(i+1,target-nums[i],nums);
+            take=solve(target-nums[i],nums,i+1);
         }
-        bool not_take=solve(i+1,target,nums);
-        return dp[i][target]=take||not_take;
-
+        bool not_take=solve(target,nums,i+1);
+        return dp[i][target]=take || not_take;
     }
 };
