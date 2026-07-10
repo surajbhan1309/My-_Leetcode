@@ -16,14 +16,40 @@ public:
 };
 */
 
+// class Solution {
+// public:
+//     Node* connect(Node* root) {
+//         if(!root) return NULL;
+//         if(root->left) root->left->next=root->right;
+//         if(root->right && root->next) root->right->next=root->next->left;
+//         connect(root->left);
+//         connect(root->right);
+//         return root;
+//     }
+// };
 class Solution {
 public:
     Node* connect(Node* root) {
-        if(!root) return NULL;
-        if(root->left) root->left->next=root->right;
-        if(root->right && root->next) root->right->next=root->next->left;
-        connect(root->left);
-        connect(root->right);
+        if (!root) return NULL;
+        
+        Node* leftMost = root;
+        
+        while (leftMost->left) {
+            Node* head = leftMost;
+            
+            while (head) {
+                head->left->next = head->right;
+                
+                if (head->next) {
+                    head->right->next = head->next->left;
+                }
+                
+                head = head->next;
+            }
+            
+            leftMost = leftMost->left;
+        }
+        
         return root;
     }
 };
