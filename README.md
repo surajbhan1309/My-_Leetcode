@@ -112,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0120-triangle](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0120-triangle/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0130-surrounded-regions](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0130-surrounded-regions/) | Medium |
 | [0135-candy](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0135-candy/) | Hard |
 | [0152-maximum-product-subarray](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
@@ -296,6 +297,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0064-minimum-path-sum](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0130-surrounded-regions](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0542-01-matrix](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0542-01-matrix/) | Medium |
@@ -586,6 +588,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [0130-surrounded-regions](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0130-surrounded-regions/) | Medium |
 | [0133-clone-graph](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0133-clone-graph/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
@@ -613,6 +616,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
+| [0130-surrounded-regions](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0130-surrounded-regions/) | Medium |
 | [0133-clone-graph](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0133-clone-graph/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0200-number-of-islands](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0200-number-of-islands/) | Medium |
@@ -664,6 +668,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0130-surrounded-regions](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0547-number-of-provinces](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/surajbhan1309/My-_Leetcode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
