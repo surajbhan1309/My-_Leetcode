@@ -168,6 +168,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1539-kth-missing-positive-number](https://github.com/surajbhan1309/My-_Leetcode/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1559-detect-cycles-in-2d-grid](https://github.com/surajbhan1309/My-_Leetcode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/surajbhan1309/My-_Leetcode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
+| [1631-path-with-minimum-effort](https://github.com/surajbhan1309/My-_Leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/surajbhan1309/My-_Leetcode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/surajbhan1309/My-_Leetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1755-closest-subsequence-sum](https://github.com/surajbhan1309/My-_Leetcode/tree/main/1755-closest-subsequence-sum/) | Hard |
@@ -291,6 +292,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/surajbhan1309/My-_Leetcode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/surajbhan1309/My-_Leetcode/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/surajbhan1309/My-_Leetcode/tree/main/1539-kth-missing-positive-number/) | Easy |
+| [1631-path-with-minimum-effort](https://github.com/surajbhan1309/My-_Leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/surajbhan1309/My-_Leetcode/tree/main/2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard |
 ## Matrix
 | Problem Name | Difficulty |
@@ -311,6 +313,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/surajbhan1309/My-_Leetcode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/surajbhan1309/My-_Leetcode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/surajbhan1309/My-_Leetcode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
+| [1631-path-with-minimum-effort](https://github.com/surajbhan1309/My-_Leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/surajbhan1309/My-_Leetcode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [2906-construct-product-matrix](https://github.com/surajbhan1309/My-_Leetcode/tree/main/2906-construct-product-matrix/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/surajbhan1309/My-_Leetcode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
@@ -616,6 +619,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/surajbhan1309/My-_Leetcode/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/surajbhan1309/My-_Leetcode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/surajbhan1309/My-_Leetcode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
+| [1631-path-with-minimum-effort](https://github.com/surajbhan1309/My-_Leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -644,6 +648,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1306-jump-game-iii](https://github.com/surajbhan1309/My-_Leetcode/tree/main/1306-jump-game-iii/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/surajbhan1309/My-_Leetcode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/surajbhan1309/My-_Leetcode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
+| [1631-path-with-minimum-effort](https://github.com/surajbhan1309/My-_Leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -684,6 +689,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0785-is-graph-bipartite](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/surajbhan1309/My-_Leetcode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/surajbhan1309/My-_Leetcode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
+| [1631-path-with-minimum-effort](https://github.com/surajbhan1309/My-_Leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -722,6 +728,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0451-sort-characters-by-frequency](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0621-task-scheduler](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0621-task-scheduler/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0692-top-k-frequent-words/) | Medium |
+| [1631-path-with-minimum-effort](https://github.com/surajbhan1309/My-_Leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
