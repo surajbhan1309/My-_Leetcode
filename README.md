@@ -352,6 +352,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0583-delete-operation-for-two-strings](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0583-delete-operation-for-two-strings/) | Medium |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [0787-cheapest-flights-within-k-stops](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0887-super-egg-drop](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0887-super-egg-drop/) | Hard |
 | [0907-sum-of-subarray-minimums](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [1048-longest-string-chain](https://github.com/surajbhan1309/My-_Leetcode/tree/main/1048-longest-string-chain/) | Medium |
@@ -613,6 +614,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0662-maximum-width-of-binary-tree](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0733-flood-fill](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0733-flood-fill/) | Easy |
 | [0785-is-graph-bipartite](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
+| [0787-cheapest-flights-within-k-stops](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1306-jump-game-iii](https://github.com/surajbhan1309/My-_Leetcode/tree/main/1306-jump-game-iii/) | Medium |
@@ -641,6 +643,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0662-maximum-width-of-binary-tree](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0733-flood-fill](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0733-flood-fill/) | Easy |
 | [0785-is-graph-bipartite](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
+| [0787-cheapest-flights-within-k-stops](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [0994-rotting-oranges](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0994-rotting-oranges/) | Medium |
@@ -728,6 +731,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0451-sort-characters-by-frequency](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0621-task-scheduler](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0621-task-scheduler/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0692-top-k-frequent-words/) | Medium |
+| [0787-cheapest-flights-within-k-stops](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/surajbhan1309/My-_Leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |
@@ -798,6 +802,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0310-minimum-height-trees](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0310-minimum-height-trees/) | Medium |
 | [0547-number-of-provinces](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
+| [0787-cheapest-flights-within-k-stops](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -827,4 +832,8 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0146-lru-cache/) | Medium |
+## Shortest Path
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 <!---LeetCode Topics End-->
