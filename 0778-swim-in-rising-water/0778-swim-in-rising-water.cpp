@@ -1,40 +1,35 @@
 class Solution {
 public:
+    int n;
+
+    bool dfs(int mid, int x, int y, vector<vector<int>>& grid, vector<vector<int>>& vis) {
+        if(x < 0 || y < 0 || x >= n || y >= n) return false;
+        if(vis[x][y] || grid[x][y] > mid) return false;
+
+        if(x == n-1 && y == n-1) return true;
+
+        vis[x][y] = 1;
+
+        return dfs(mid, x+1, y, grid, vis) ||
+               dfs(mid, x-1, y, grid, vis) ||
+               dfs(mid, x, y+1, grid, vis) ||
+               dfs(mid, x, y-1, grid, vis);
+    }
+
     int swimInWater(vector<vector<int>>& grid) {
-        int n = grid.size();
-        
-        // Min-heap: {max_height_so_far, r, c}
-        priority_queue<
-            array<int,3>,
-            vector<array<int,3>>,
-            greater<>
-        > pq;
-        
-        vector<vector<bool>> visited(n, vector<bool>(n, false));
-        const int dirs[4][2] = {{0,1},{1,0},{0,-1},{-1,0}};
-        
-        pq.push({grid[0][0], 0, 0});
-        
-        while (!pq.empty()) {
-            auto [maxH, r, c] = pq.top();
-            pq.pop();
-            
-            if (visited[r][c]) continue;
-            visited[r][c] = true;
-            
-            // If reached target, first time = optimal
-            if (r == n - 1 && c == n - 1) return maxH;
-            
-            for (auto &d : dirs) {
-                int nr = r + d[0];
-                int nc = c + d[1];
-                
-                if (nr >= 0 && nr < n && nc >= 0 && nc < n && !visited[nr][nc]) {
-                    pq.push({max(maxH, grid[nr][nc]), nr, nc});
-                }
-            }
+        n = grid.size();
+        int l = 0, r = n*n;
+
+        while(l < r) {
+            int mid = l + (r - l)/2;
+            vector<vector<int>> vis(n, vector<int>(n, 0));
+
+            if(dfs(mid, 0, 0, grid, vis))
+                r = mid;
+            else
+                l = mid + 1;
         }
-        
-        return -1; // Should never reach here
+
+        return l;
     }
 };
