@@ -1,29 +1,24 @@
 class Solution {
 public:
+    int dp[103][103];
     int minCost(int n, vector<int>& cuts) {
-
-        // 1️⃣ Add boundaries
-        cuts.push_back(0);
+        sort(cuts.begin(),cuts.end());
+        cuts.insert(cuts.begin(),0);
         cuts.push_back(n);
-        sort(cuts.begin(), cuts.end());
-
-        int m = cuts.size();
-        vector<vector<int>> dp(m, vector<int>(m, 0));
-
-        // 2️⃣ Length-based DP (same as Matrix Chain)
-        for (int len = 2; len < m; len++) {
-            for (int i = 0; i + len < m; i++) {
-                int j = i + len;
-                dp[i][j] = INT_MAX;
-
-                // 3️⃣ Try every partition (last cut)
-                for (int k = i + 1; k < j; k++) {
-                    dp[i][j] = min(dp[i][j],
-                        dp[i][k] + dp[k][j] + (cuts[j] - cuts[i]));
-                }
-            }
-        }
-
-        return dp[0][m - 1];
+        memset(dp,-1,sizeof(dp));
+        return solve(cuts,0,cuts.size()-1);
     }
+    int solve(vector<int>&cuts,int left,int right){
+        if((right-left)==1) return 0;
+        if(dp[left][right]!=-1){
+            return dp[left][right];
+        }
+        int result=INT_MAX;
+        for(int index=left+1;index<=right-1;index++){
+            int cost=solve(cuts,left,index)+solve(cuts,index,right)+cuts[right]-cuts[left];
+            result=min(result,cost);
+        }
+        return dp[left][right]=result;
+    }
+
 };
