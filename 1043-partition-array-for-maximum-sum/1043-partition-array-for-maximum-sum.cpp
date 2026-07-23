@@ -1,20 +1,21 @@
 class Solution {
 public:
+    int n;
+    int dp[501];
     int maxSumAfterPartitioning(vector<int>& arr, int k) {
-        int n = arr.size();
-        vector<int> dp(n + 1, 0);
-
-        for (int i = n - 1; i >= 0; i--) {
-            int maxVal = 0;
-            int best = 0;
-
-            for (int j = i; j < n && j < i + k; j++) {
-                maxVal = max(maxVal, arr[j]);
-                best = max(best, maxVal * (j - i + 1) + dp[j + 1]);
-            }
-            dp[i] = best;
+        n=arr.size();
+        memset(dp,-1,sizeof(dp));
+        return solve(arr,0,k);
+    }
+    int solve(vector<int>&arr,int i,int k){
+        if(i>=n) return 0;
+        if(dp[i]!=-1) return dp[i];
+        int result=0;
+        int maxval=-1;
+        for(int j=i;j<n && j-i+1<=k;j++){
+            maxval=max(maxval,arr[j]);
+            result=max(result,maxval*(j-i+1)+solve(arr,j+1,k));
         }
-
-        return dp[0];
+        return dp[i]=result;
     }
 };
