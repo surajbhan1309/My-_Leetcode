@@ -157,6 +157,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0692-top-k-frequent-words](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0733-flood-fill](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0733-flood-fill/) | Easy |
 | [0739-daily-temperatures](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0739-daily-temperatures/) | Medium |
+| [0740-delete-and-earn](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0740-delete-and-earn/) | Medium |
 | [0778-swim-in-rising-water](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0875-koko-eating-bananas](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0907-sum-of-subarray-minimums/) | Medium |
@@ -233,6 +234,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0621-task-scheduler](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0621-task-scheduler/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0692-top-k-frequent-words/) | Medium |
+| [0740-delete-and-earn](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0740-delete-and-earn/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
@@ -368,6 +370,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0583-delete-operation-for-two-strings](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0583-delete-operation-for-two-strings/) | Medium |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [0740-delete-and-earn](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0740-delete-and-earn/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0790-domino-and-tromino-tiling](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0790-domino-and-tromino-tiling/) | Medium |
 | [0887-super-egg-drop](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0887-super-egg-drop/) | Hard |
