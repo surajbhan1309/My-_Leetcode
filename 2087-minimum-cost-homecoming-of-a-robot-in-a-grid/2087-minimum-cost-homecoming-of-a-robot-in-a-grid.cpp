@@ -9,13 +9,15 @@ public:
         
         // Move vertically row by row towards home
         while (i != x) {
-            i += (i < x) ? 1 : -1;
+            if(i<x) i++;
+            else i--;
             ans += rowCosts[i];
         }
         
         // Move horizontally column by column towards home
         while (j != y) {
-            j += (j < y) ? 1 : -1;
+            if(j<y) j++;
+            else j--;
             ans += colCosts[j];
         }
         
