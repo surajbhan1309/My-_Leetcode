@@ -13,7 +13,7 @@ public:
         while(!maxheap.empty()){
             auto [fre,ch]=maxheap.top();
             maxheap.pop();
-            ans+=string(fre,ch);
+            ans.append(fre,ch);
         }
         return ans;
     }
