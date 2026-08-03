@@ -3,8 +3,8 @@ public:
     string reverseWords(string s) {
         reverse(s.begin(),s.end());
         string ans="";
-        int start=0;
         int n=s.size();
+        int start=0;
         while(start<n){
             if(start<n && s[start]==' ') start++;
             int end=start;
@@ -18,6 +18,5 @@ public:
             start=end;
         }
         return ans;
-        
     }
 };
