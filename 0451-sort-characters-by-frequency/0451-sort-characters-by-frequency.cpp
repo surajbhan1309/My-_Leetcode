@@ -1,23 +1,20 @@
 class Solution {
 public:
     string frequencySort(string s) {
-        map<char,int>Vmap;
+        map<char,int>f;
         for(auto &c:s){
-            Vmap[c]++;
+            f[c]++;
         }
         priority_queue<pair<int,char>>maxheap;
-        for(auto &[c,freq]:Vmap){
-            maxheap.push({freq,c});
+        for(auto &x:f){
+            maxheap.push({x.second,x.first});
         }
         string ans;
         while(!maxheap.empty()){
-            auto [freq,c]=maxheap.top();
+            auto [fre,ch]=maxheap.top();
             maxheap.pop();
-            ans+=string(freq,c);
-
+            ans+=string(fre,ch);
         }
         return ans;
-
-        
     }
 };
