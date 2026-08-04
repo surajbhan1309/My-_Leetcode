@@ -1,63 +1,41 @@
 class Solution {
 public:
-    vector<vector<int>> directions = {{1, 0}, {-1, 0}, {0, -1}, {0, 1}};
-
-    void DFS(vector<vector<int>>& heights, int i, int j, int prevCellVal, vector<vector<bool>>& visited) {
-        if(i < 0 || i >= heights.size() || j < 0 || j >= heights[0].size()) { //invalid cell
-            return;
-        }
-
-        if(heights[i][j] < prevCellVal || visited[i][j])
-            return;
-
-        visited[i][j] = true;
-        for(auto &dir : directions) {
-            int i_ = i + dir[0];
-            int j_ = j + dir[1];
-
-            DFS(heights, i_, j_, heights[i][j], visited);
-        }
-
-    }
-
     vector<vector<int>> pacificAtlantic(vector<vector<int>>& heights) {
-        int m = heights.size(); //rows
-        int n = heights[0].size(); //cols
+        int m=heights.size();
+        int n=heights[0].size();
+        vector<vector<int>>result;
+        vector<vector<bool>>pacificVis(m,vector<bool>(n,false));
+        vector<vector<bool>>atlanticVis(m,vector<bool>(n,false));
 
-        vector<vector<int>> result;
-
-        vector<vector<bool>> pacificVisited(m, vector<bool>(n, false)); //pacificVisited[i][j] = true, means [i][j] water can go to Pacific //m*n
-        vector<vector<bool>> atlanticVisited(m, vector<bool>(n, false)); //atlanticVisited[i][j] = true, means [i][j] water can go to atlantic //m*n
-        //T.C : O(m*n)
-        //S.C : O(m*n)
-
-
-        //Top Row and Bottom Row
-        //Top Row : Pacific connected already
-        //Bottom Row : atlantic connected already
-
-        for(int j = 0; j < n; j++) {
-            DFS(heights, 0, j, INT_MIN, pacificVisited); //Top Row
-            DFS(heights, m-1, j, INT_MIN, atlanticVisited); //Top Row
+        for(int j=0;j<n;j++){
+            dfs(heights,0,j,INT_MIN,pacificVis);//first row
+            dfs(heights,m-1,j,INT_MIN,atlanticVis);//last row
         }
-
-        //First col and last column
-        //First col : Pacific connected already
-        //Last col : atlantic connected already
-        for(int i = 0; i < m; i++) {
-            DFS(heights, i, 0, INT_MIN, pacificVisited); //First column
-            DFS(heights, i, n-1, INT_MIN, atlanticVisited); //Last Column
+        for(int i=0;i<m;i++){
+            dfs(heights,i,0,INT_MIN,pacificVis);//first col
+            dfs(heights,i,n-1,INT_MIN,atlanticVis);//last col
         }
-
-
-        for(int i = 0; i < m; i++) {
-            for(int j = 0; j < n; j++) {
-                if(pacificVisited[i][j] && atlanticVisited[i][j]) {
-                    result.push_back({i, j});
+        for(int i=0;i<m;i++){
+            for(int j=0;j<n;j++){
+                if(pacificVis[i][j] && atlanticVis[i][j]){
+                    result.push_back({i,j});
                 }
             }
         }
-
         return result;
+
+    }
+    void dfs(vector<vector<int>>&heights,int i,int j,int prevcellval,vector<vector<bool>>&visited){
+        if(i<0 || i>=heights.size() || j<0 || j>=heights[0].size()){return;}
+        if(heights[i][j]<prevcellval || visited[i][j]){return;}
+        visited[i][j]=true;
+        int dr[]={-1,0,1,0};
+        int dc[]={0,1,0,-1};
+        for(int k=0;k<4;k++){
+            int nr=i+dr[k];
+            int nc=j+dc[k];
+
+            dfs(heights,nr,nc,heights[i][j],visited);
+        }
     }
 };
