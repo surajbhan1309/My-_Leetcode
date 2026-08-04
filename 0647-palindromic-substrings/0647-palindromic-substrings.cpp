@@ -3,9 +3,9 @@ public:
     int countSubstrings(string s) {
         int n=s.size();
         vector<vector<int>>dp(n,vector<int>(n,-1));
-        int count=n;
+        int count=0;
         for(int i=0;i<n;i++){
-            for(int j=i+1;j<n;j++){
+            for(int j=i;j<n;j++){
                 if(ispal(dp,s,i,j)){
                     count++;
                 }
