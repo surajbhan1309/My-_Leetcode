@@ -670,6 +670,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/surajbhan1309/My-_Leetcode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/surajbhan1309/My-_Leetcode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/surajbhan1309/My-_Leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
+| [3310-remove-methods-from-project](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -703,6 +704,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/surajbhan1309/My-_Leetcode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/surajbhan1309/My-_Leetcode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/surajbhan1309/My-_Leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
+| [3310-remove-methods-from-project](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3310-remove-methods-from-project/) | Medium |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -872,6 +874,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0787-cheapest-flights-within-k-stops](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/surajbhan1309/My-_Leetcode/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/surajbhan1309/My-_Leetcode/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
+| [3310-remove-methods-from-project](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
