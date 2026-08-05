@@ -22,10 +22,7 @@ public:
                 }
             }
         }
-        vector<vector<int>>ans;
-        for(auto &x:s){
-            ans.push_back(x);
-        }
+        vector<vector<int>>ans(s.begin(),s.end());
         return ans;
         
     }
