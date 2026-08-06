@@ -11,9 +11,8 @@ public:
             ans.push_back(path);
             return ;
         }
-        if (i > n || path.size() + (n - i + 1) < k) {//not enough size to reach k
+        if (i > n )
             return;
-        }
         path.push_back(i);
         solve(ans,path,k,i+1,n);
         path.pop_back();
