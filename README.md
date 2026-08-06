@@ -555,6 +555,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0039-combination-sum](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0046-permutations/) | Medium |
+| [0077-combinations](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0077-combinations/) | Medium |
 | [0078-subsets](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0078-subsets/) | Medium |
 | [0089-gray-code](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0089-gray-code/) | Medium |
 | [0090-subsets-ii](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0090-subsets-ii/) | Medium |
