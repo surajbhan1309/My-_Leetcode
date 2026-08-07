@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0006-zigzag-conversion](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0006-zigzag-conversion/) | Medium |
 | [0008-string-to-integer-atoi](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0013-roman-to-integer](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
