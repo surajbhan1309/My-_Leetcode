@@ -566,6 +566,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0078-subsets](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0078-subsets/) | Medium |
 | [0089-gray-code](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0089-gray-code/) | Medium |
 | [0090-subsets-ii](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0090-subsets-ii/) | Medium |
+| [0113-path-sum-ii](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0113-path-sum-ii/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0216-combination-sum-iii](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0216-combination-sum-iii/) | Medium |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
@@ -622,6 +623,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0113-path-sum-ii](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0113-path-sum-ii/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
@@ -647,6 +649,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0094-binary-tree-inorder-traversal](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0098-validate-binary-search-tree](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0113-path-sum-ii](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0113-path-sum-ii/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
@@ -725,6 +728,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0113-path-sum-ii](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0113-path-sum-ii/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
