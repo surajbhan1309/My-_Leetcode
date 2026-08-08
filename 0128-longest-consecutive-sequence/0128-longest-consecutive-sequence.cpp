@@ -4,11 +4,11 @@ public:
         unordered_set<int>s(nums.begin(),nums.end());
         int longest=0;
         for(auto &x:s){
-            if(s.find(x-1)==s.end()){
-                int current=x;
+            if(!s.count(x-1)){
                 int length=1;
-                while(s.find(current+1)!=s.end()){
-                    current++;
+                int curr=x;
+                while(s.count(curr+1)){
+                    curr++;
                     length++;
                 }
                 longest=max(longest,length);
