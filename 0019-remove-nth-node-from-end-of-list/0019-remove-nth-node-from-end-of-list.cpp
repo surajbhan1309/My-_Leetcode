@@ -8,60 +8,20 @@
  *     ListNode(int x, ListNode *next) : val(x), next(next) {}
  * };
  */
-// class Solution {
-// public:
-//     ListNode* removeNthFromEnd(ListNode* head, int n) {
-   
-   
-//         // Create a dummy node to handle edge cases like removing the head
-//         ListNode dummy(0);
-//         dummy.next = head;
-//         ListNode* first = &dummy;
-//         ListNode* second = &dummy;
-
-//         // Move `first` pointer so that it is `n+1` nodes ahead of `second`
-//         for (int i = 0; i <= n; ++i) {
-//             first = first->next;
-//         }
-
-//         // Move both `first` and `second` pointers until `first` reaches the end
-//         while (first != nullptr) {
-//             first = first->next;
-//             second = second->next;
-//         }
-
-//         // `second->next` is the node to be removed
-//         ListNode* nodeToDelete = second->next;
-//         second->next = second->next->next;
-
-//         // Clean up the node
-//         delete nodeToDelete;
-
-//         return dummy.next;
-//     }
-    
-
-
-// };
-
-// Write more efficient
-
 class Solution {
 public:
     ListNode* removeNthFromEnd(ListNode* head, int n) {
-        ListNode* fast=head;
         ListNode* slow=head;
+        ListNode* fast=head;
 
         while(n--) fast=fast->next;
 
-        if(fast==NULL) return head->next;
+        if(!fast) return head->next;
 
-        while(!fast->next==NULL){
+        while(fast->next){
             slow=slow->next;
             fast=fast->next;
         }
-
-        //deletion
         slow->next=slow->next->next;
         return head;
     }
