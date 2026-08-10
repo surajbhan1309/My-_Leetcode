@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0088-merge-sorted-array](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0143-reorder-list](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0143-reorder-list/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0160-intersection-of-two-linked-lists](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0165-compare-version-numbers](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0165-compare-version-numbers/) | Medium |
 | [0202-happy-number](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0202-happy-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
@@ -231,6 +232,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0128-longest-consecutive-sequence](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0133-clone-graph](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0133-clone-graph/) | Medium |
 | [0146-lru-cache](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0146-lru-cache/) | Medium |
+| [0160-intersection-of-two-linked-lists](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0169-majority-element](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0202-happy-number](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0202-happy-number/) | Easy |
 | [0205-isomorphic-strings](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0205-isomorphic-strings/) | Easy |
@@ -915,6 +917,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0143-reorder-list](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0143-reorder-list/) | Medium |
 | [0146-lru-cache](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0146-lru-cache/) | Medium |
+| [0160-intersection-of-two-linked-lists](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
