@@ -870,6 +870,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1280-students-and-examinations](https://github.com/surajbhan1309/My-_Leetcode/tree/main/1280-students-and-examinations/) | Easy |
 | [1321-restaurant-growth](https://github.com/surajbhan1309/My-_Leetcode/tree/main/1321-restaurant-growth/) | Medium |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/surajbhan1309/My-_Leetcode/tree/main/1327-list-the-products-ordered-in-a-period/) | Easy |
+| [1341-movie-rating](https://github.com/surajbhan1309/My-_Leetcode/tree/main/1341-movie-rating/) | Medium |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/surajbhan1309/My-_Leetcode/tree/main/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/surajbhan1309/My-_Leetcode/tree/main/1581-customer-who-visited-but-did-not-make-any-transactions/) | Easy |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/surajbhan1309/My-_Leetcode/tree/main/1633-percentage-of-users-attended-a-contest/) | Easy |
