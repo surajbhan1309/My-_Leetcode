@@ -985,4 +985,9 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0287-find-the-duplicate-number](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
+## Pigeonhole Principle
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 <!---LeetCode Topics End-->
