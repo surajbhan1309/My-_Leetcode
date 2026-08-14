@@ -689,6 +689,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0778-swim-in-rising-water](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0785-is-graph-bipartite](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
+| [0802-find-eventual-safe-states](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1306-jump-game-iii](https://github.com/surajbhan1309/My-_Leetcode/tree/main/1306-jump-game-iii/) | Medium |
@@ -722,6 +723,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0778-swim-in-rising-water](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0785-is-graph-bipartite](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
+| [0802-find-eventual-safe-states](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [0994-rotting-oranges](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0994-rotting-oranges/) | Medium |
@@ -910,6 +912,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0743-network-delay-time](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0743-network-delay-time/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
+| [0802-find-eventual-safe-states](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/surajbhan1309/My-_Leetcode/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/surajbhan1309/My-_Leetcode/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3310-remove-methods-from-project/) | Medium |
@@ -919,6 +922,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0207-course-schedule](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0210-course-schedule-ii/) | Medium |
 | [0310-minimum-height-trees](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0310-minimum-height-trees/) | Medium |
+| [0802-find-eventual-safe-states](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/surajbhan1309/My-_Leetcode/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
@@ -990,4 +994,12 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0287-find-the-duplicate-number](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
+## Kosaraju's Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0802-find-eventual-safe-states](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0802-find-eventual-safe-states/) | Medium |
+## Tarjan's SCC Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0802-find-eventual-safe-states](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0802-find-eventual-safe-states/) | Medium |
 <!---LeetCode Topics End-->
