@@ -4,9 +4,8 @@ public:
         int n=graph.size();
         vector<int>color(n,0);
         queue<int>q;
-
         for(int i=0;i<n;i++){
-            if(color[i]==0){
+            if(!color[i]){
                 color[i]=1;
                 q.push(i);
             }
@@ -14,15 +13,15 @@ public:
                 continue;
             }
             while(!q.empty()){
-                int curr=q.front();
+                auto node=q.front();
                 q.pop();
 
-                for(int nbr:graph[curr]){
+                for(auto &nbr:graph[node]){
                     if(!color[nbr]){
-                        color[nbr]=-color[curr];
+                        color[nbr]=-color[node];
                         q.push(nbr);
                     }
-                    else if(color[nbr]==color[curr]){
+                    else if(color[nbr]==color[node]){
                         return false;
                     }
                 }
