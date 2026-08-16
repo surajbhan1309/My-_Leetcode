@@ -1002,4 +1002,8 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0802-find-eventual-safe-states](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0802-find-eventual-safe-states/) | Medium |
+## Boyer–Moore Majority Vote Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
