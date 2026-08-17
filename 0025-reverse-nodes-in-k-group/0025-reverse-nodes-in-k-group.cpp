@@ -11,35 +11,27 @@
 class Solution {
 public:
     ListNode* reverseKGroup(ListNode* head, int k) {
-       // Check if there are at least k nodes left in the linked list
-        ListNode* node = head;
-        for (int i = 0; i < k; ++i) {
-            if (node == NULL) {
-                return head; // Not enough nodes to reverse, return head as is
-            }
-            node = node->next;
+        ListNode*node=head;
+        for(int i=0;i<k;i++){
+            if(!node) return head;
+            node=node->next;
         }
-        //step1:reverse first k nodes
-        ListNode* next=NULL;
+        ListNode* forward=NULL;
         ListNode* curr=head;
-        ListNode*prev=NULL;
+        ListNode* prev=NULL;
         int count=0;
 
-        while(curr!=NULL && count <k){
-            next=curr->next;
+        while(curr && count<k){
+            forward=curr->next;
             curr->next=prev;
             prev=curr;
-            curr=next;
+            curr=forward;
             count++;
-
-
         }
-        //step2:Recursion dekhlega aage ka
-        if(next!=NULL){
-            head->next=reverseKGroup(next,k);
+        if(forward){
+            head->next=reverseKGroup(forward,k);
         }
-        //step3:Return head of reversed list
         return prev;
-        
     }
+
 };
