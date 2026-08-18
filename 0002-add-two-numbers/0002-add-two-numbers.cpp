@@ -15,7 +15,6 @@ public:
         ListNode* temp=dummy;
         int total=0;
         int carry=0;
-
         while(l1||l2||carry){
             total=carry;
             if(l1){
@@ -26,7 +25,7 @@ public:
                 total+=l2->val;
                 l2=l2->next;
             }
-            int num=total%10;
+            int num= total%10;
             carry=total/10;
             temp->next=new ListNode(num);
             temp=temp->next;
