@@ -8,9 +8,9 @@ public:
             int left=i+1;
             int right=n-1;
             while(left<right){
-                long long sum=nums[left]+nums[i]+nums[right];
+                int sum=nums[left]+nums[right]+nums[i];
                 if(sum==0){
-                    s.insert({nums[left],nums[i],nums[right]});
+                    s.insert({nums[left],nums[right],nums[i]});
                     left++;
                     right--;
                 }
@@ -24,6 +24,5 @@ public:
         }
         vector<vector<int>>ans(s.begin(),s.end());
         return ans;
-        
     }
 };
