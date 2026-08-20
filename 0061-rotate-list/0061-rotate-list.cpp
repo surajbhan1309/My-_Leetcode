@@ -11,10 +11,8 @@
 class Solution {
 public:
     ListNode* rotateRight(ListNode* head, int k) {
-        if(head == NULL) return head;
+        if(!head) return NULL;
         ListNode* curr=head;
-
-        //find length of LL
         int len=1;
         while(curr->next){
             curr=curr->next;
@@ -29,9 +27,5 @@ public:
         head=curr->next;
         curr->next=NULL;
         return head;
-
-
-
-        
     }
 };
