@@ -12,7 +12,7 @@ public:
             if(target<matrix[row][col]){
                 high=mid-1;
             }
-            else if (matrix[row][col] == target){
+            else if(matrix[row][col]==target){
                 return true;
             }
             else{
