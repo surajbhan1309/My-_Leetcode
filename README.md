@@ -1018,6 +1018,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## DP on Trees
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0543-diameter-of-binary-tree](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Binary Lifting
 | Problem Name | Difficulty |
