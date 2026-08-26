@@ -1,41 +1,21 @@
-// class Solution {
-// public:
-//     int singleNonDuplicate(vector<int>& nums) {
-//         int n=nums.size();
-//         int low=0;
-//         int high=n-1;
-//         while(low<high){
-//             int mid=low+(high-low)/2;
-//             if(nums[mid]==nums[mid^1]){
-//                 low=mid+1;
-//             }
-//             else{
-//                 high=mid;
-//             }
-//         }
-//         return nums[low];
-//     }
-// };
 class Solution {
 public:
     int singleNonDuplicate(vector<int>& nums) {
-        int start=0;
-        int end=nums.size()-1;
-
-        while(start<end){
-            int mid=start+(end-start)/2;
-            
-            if (mid % 2 == 1) mid--;
-
-            if(nums[mid]==nums[mid+1]){
-                start=mid+2;
+        int n=nums.size();
+        int low=0;
+        int high=n-1;
+        while(low<high){
+            int mid=low+(high-low)/2;
+            // mid ^ 1 finds the expected twin index:
+            // If mid is even, mid ^ 1 is mid + 1
+            // If mid is odd, mid ^ 1 is mid - 1
+            if(nums[mid]==nums[mid^1]){
+                low=mid+1;
             }
             else{
-                end=mid;
+                high=mid;
             }
-            
-        } 
-        return nums[start];
-          
+        }
+        return nums[low];
     }
 };
