@@ -86,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/surajbhan1309/My-_Leetcode/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/surajbhan1309/My-_Leetcode/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/surajbhan1309/My-_Leetcode/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/surajbhan1309/My-_Leetcode/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
 | [3325-count-substrings-with-k-frequency-characters-i](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3325-count-substrings-with-k-frequency-characters-i/) | Medium |
@@ -607,6 +608,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0930-binary-subarrays-with-sum](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/surajbhan1309/My-_Leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/surajbhan1309/My-_Leetcode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/surajbhan1309/My-_Leetcode/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3325-count-substrings-with-k-frequency-characters-i](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3325-count-substrings-with-k-frequency-characters-i/) | Medium |
 ## Simulation
