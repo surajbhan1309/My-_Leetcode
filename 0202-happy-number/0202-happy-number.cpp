@@ -1,25 +1,22 @@
 class Solution {
-private:
-    int getNext(int n) {
-        int totalSum = 0;
-        while (n > 0) {
-            int digit = n % 10;
-            totalSum += digit * digit;
-            n /= 10;
-        }
-        return totalSum;
-    }
-
 public:
     bool isHappy(int n) {
-        int slow = n;
-        int fast = getNext(n);
-        
-        while (fast != 1 && slow != fast) {
-            slow = getNext(slow);
-            fast = getNext(getNext(fast));
+        int slow=n;
+        int fast=next(n);
+
+        while(fast!=1 && slow!=fast){
+            slow=next(slow);
+            fast=next(next(fast));
         }
-        
-        return fast == 1;
+        return fast==1;
+    }
+    int next(int n){
+        int sum=0;
+        while(n>0){
+            int digit=n%10;
+            sum+=digit*digit;
+            n/=10;
+        }
+        return sum;
     }
 };
