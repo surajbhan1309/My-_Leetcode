@@ -209,6 +209,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/surajbhan1309/My-_Leetcode/tree/main/2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/surajbhan1309/My-_Leetcode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2087-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/surajbhan1309/My-_Leetcode/tree/main/2087-minimum-cost-homecoming-of-a-robot-in-a-grid/) | Medium |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/surajbhan1309/My-_Leetcode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2121-intervals-between-identical-elements](https://github.com/surajbhan1309/My-_Leetcode/tree/main/2121-intervals-between-identical-elements/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/surajbhan1309/My-_Leetcode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/surajbhan1309/My-_Leetcode/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
@@ -554,6 +555,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1927-sum-game](https://github.com/surajbhan1309/My-_Leetcode/tree/main/1927-sum-game/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/surajbhan1309/My-_Leetcode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2087-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/surajbhan1309/My-_Leetcode/tree/main/2087-minimum-cost-homecoming-of-a-robot-in-a-grid/) | Medium |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/surajbhan1309/My-_Leetcode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
