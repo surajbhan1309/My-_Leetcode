@@ -236,6 +236,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3936-minimum-swaps-to-move-zeros-to-end/) | Easy |
 | [3937-minimum-operations-to-make-array-modulo-alternating-i](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3937-minimum-operations-to-make-array-modulo-alternating-i/) | Medium |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/surajbhan1309/My-_Leetcode/tree/main/4014-minimum-total-price-after-applying-discounts/) | Medium |
+| [4015-weighted-sum-of-a-tree](https://github.com/surajbhan1309/My-_Leetcode/tree/main/4015-weighted-sum-of-a-tree/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -686,6 +687,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/surajbhan1309/My-_Leetcode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/surajbhan1309/My-_Leetcode/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
+| [4015-weighted-sum-of-a-tree](https://github.com/surajbhan1309/My-_Leetcode/tree/main/4015-weighted-sum-of-a-tree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -729,6 +731,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1559-detect-cycles-in-2d-grid](https://github.com/surajbhan1309/My-_Leetcode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/surajbhan1309/My-_Leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3310-remove-methods-from-project/) | Medium |
+| [4015-weighted-sum-of-a-tree](https://github.com/surajbhan1309/My-_Leetcode/tree/main/4015-weighted-sum-of-a-tree/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
