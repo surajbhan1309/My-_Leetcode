@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2149-rearrange-array-elements-by-sign](https://github.com/surajbhan1309/My-_Leetcode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3936-minimum-swaps-to-move-zeros-to-end/) | Easy |
+| [4014-minimum-total-price-after-applying-discounts](https://github.com/surajbhan1309/My-_Leetcode/tree/main/4014-minimum-total-price-after-applying-discounts/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -234,6 +235,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3936-minimum-swaps-to-move-zeros-to-end/) | Easy |
 | [3937-minimum-operations-to-make-array-modulo-alternating-i](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3937-minimum-operations-to-make-array-modulo-alternating-i/) | Medium |
+| [4014-minimum-total-price-after-applying-discounts](https://github.com/surajbhan1309/My-_Leetcode/tree/main/4014-minimum-total-price-after-applying-discounts/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -531,6 +533,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/surajbhan1309/My-_Leetcode/tree/main/2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/surajbhan1309/My-_Leetcode/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3731-find-missing-elements](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3731-find-missing-elements/) | Easy |
+| [4014-minimum-total-price-after-applying-discounts](https://github.com/surajbhan1309/My-_Leetcode/tree/main/4014-minimum-total-price-after-applying-discounts/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -560,6 +563,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2087-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/surajbhan1309/My-_Leetcode/tree/main/2087-minimum-cost-homecoming-of-a-robot-in-a-grid/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/surajbhan1309/My-_Leetcode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/surajbhan1309/My-_Leetcode/tree/main/2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros/) | Medium |
+| [4014-minimum-total-price-after-applying-discounts](https://github.com/surajbhan1309/My-_Leetcode/tree/main/4014-minimum-total-price-after-applying-discounts/) | Medium |
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
