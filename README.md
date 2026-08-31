@@ -94,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
 | [3325-count-substrings-with-k-frequency-characters-i](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3325-count-substrings-with-k-frequency-characters-i/) | Medium |
 | [3612-process-string-with-special-operations-i](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3612-process-string-with-special-operations-i/) | Medium |
+| [4006-count-valid-prefixes](https://github.com/surajbhan1309/My-_Leetcode/tree/main/4006-count-valid-prefixes/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -541,6 +542,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0692-top-k-frequent-words](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0692-top-k-frequent-words/) | Medium |
 | [2013-detect-squares](https://github.com/surajbhan1309/My-_Leetcode/tree/main/2013-detect-squares/) | Medium |
 | [2833-furthest-point-from-origin](https://github.com/surajbhan1309/My-_Leetcode/tree/main/2833-furthest-point-from-origin/) | Easy |
+| [4006-count-valid-prefixes](https://github.com/surajbhan1309/My-_Leetcode/tree/main/4006-count-valid-prefixes/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
