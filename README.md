@@ -96,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3325-count-substrings-with-k-frequency-characters-i](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3325-count-substrings-with-k-frequency-characters-i/) | Medium |
 | [3612-process-string-with-special-operations-i](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [4006-count-valid-prefixes](https://github.com/surajbhan1309/My-_Leetcode/tree/main/4006-count-valid-prefixes/) | Easy |
+| [4021-minimum-operations-to-make-a-rotated-palindrome-i](https://github.com/surajbhan1309/My-_Leetcode/tree/main/4021-minimum-operations-to-make-a-rotated-palindrome-i/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -470,6 +471,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3345-smallest-divisible-digit-product-i](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
+| [4021-minimum-operations-to-make-a-rotated-palindrome-i](https://github.com/surajbhan1309/My-_Leetcode/tree/main/4021-minimum-operations-to-make-a-rotated-palindrome-i/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -616,6 +618,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3345-smallest-divisible-digit-product-i](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3548-equal-sum-grid-partition-ii](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3937-minimum-operations-to-make-array-modulo-alternating-i](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3937-minimum-operations-to-make-array-modulo-alternating-i/) | Medium |
+| [4021-minimum-operations-to-make-a-rotated-palindrome-i](https://github.com/surajbhan1309/My-_Leetcode/tree/main/4021-minimum-operations-to-make-a-rotated-palindrome-i/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
