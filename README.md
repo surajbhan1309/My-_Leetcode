@@ -227,6 +227,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3548-equal-sum-grid-partition-ii](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
@@ -287,6 +288,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/surajbhan1309/My-_Leetcode/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3325-count-substrings-with-k-frequency-characters-i](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3325-count-substrings-with-k-frequency-characters-i/) | Medium |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3548-equal-sum-grid-partition-ii](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3731-find-missing-elements](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3731-find-missing-elements/) | Easy |
