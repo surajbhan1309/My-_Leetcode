@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0234-palindrome-linked-list](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0295-find-median-from-data-stream](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0295-find-median-from-data-stream/) | Hard |
+| [0392-is-subsequence](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0392-is-subsequence/) | Easy |
 | [0455-assign-cookies](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [0567-permutation-in-string](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0567-permutation-in-string/) | Medium |
 | [0647-palindromic-substrings](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0647-palindromic-substrings/) | Medium |
@@ -63,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0165-compare-version-numbers](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0165-compare-version-numbers/) | Medium |
 | [0205-isomorphic-strings](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0242-valid-anagram/) | Easy |
+| [0392-is-subsequence](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0392-is-subsequence/) | Easy |
 | [0399-evaluate-division](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0399-evaluate-division/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
@@ -412,6 +414,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0312-burst-balloons](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0312-burst-balloons/) | Hard |
 | [0322-coin-change](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0322-coin-change/) | Medium |
 | [0368-largest-divisible-subset](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0368-largest-divisible-subset/) | Medium |
+| [0392-is-subsequence](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0392-is-subsequence/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0416-partition-equal-subset-sum](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0516-longest-palindromic-subsequence](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0516-longest-palindromic-subsequence/) | Medium |
