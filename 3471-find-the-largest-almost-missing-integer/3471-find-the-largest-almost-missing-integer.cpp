@@ -2,38 +2,32 @@ class Solution {
 public:
     int largestInteger(vector<int>& nums, int k) {
         int n = nums.size();
-        unordered_map<int, int> total_counts;
-        for (int x : nums) {
-            total_counts[x]++;
-        }
+        unordered_map<int, int> subarray_counts;
+        unordered_map<int, int> current_window;
 
-        if (k == 1) {
-            int ans = -1;
-            for (auto& pair : total_counts) {
-                if (pair.second == 1) {
-                    ans = max(ans, pair.first);
+        for (int i = 0; i < n; i++) {
+            current_window[nums[i]]++;
+
+            if (i >= k) {
+                int left_elem = nums[i - k];
+                current_window[left_elem]--;
+                if (current_window[left_elem] == 0) {
+                    current_window.erase(left_elem);
                 }
             }
-            return ans;
+
+            if (i >= k - 1) {
+                for (auto& pair : current_window) {
+                    subarray_counts[pair.first]++;
+                }
+            }
         }
 
-        if (k == n) {
-            int ans = -1;
-            for (auto& pair : total_counts) {
+        int ans = -1;
+        for (auto& pair : subarray_counts) {
+            if (pair.second == 1) {
                 ans = max(ans, pair.first);
             }
-            return ans;
-        }
-
-        int first = nums[0];
-        int last = nums[n - 1];
-        int ans = -1;
-
-        if (total_counts[first] == 1) {
-            ans = max(ans, first);
-        }
-        if (total_counts[last] == 1) {
-            ans = max(ans, last);
         }
 
         return ans;
