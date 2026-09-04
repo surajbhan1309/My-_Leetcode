@@ -66,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0165-compare-version-numbers](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0165-compare-version-numbers/) | Medium |
 | [0205-isomorphic-strings](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0242-valid-anagram/) | Easy |
+| [0383-ransom-note](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0383-ransom-note/) | Easy |
 | [0392-is-subsequence](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0392-is-subsequence/) | Easy |
 | [0399-evaluate-division](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0399-evaluate-division/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
@@ -273,6 +274,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0229-majority-element-ii](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0383-ransom-note](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0383-ransom-note/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
@@ -560,6 +562,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0169-majority-element](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0229-majority-element-ii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0383-ransom-note](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0383-ransom-note/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0621-task-scheduler](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0621-task-scheduler/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0692-top-k-frequent-words/) | Medium |
