@@ -252,6 +252,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3937-minimum-operations-to-make-array-modulo-alternating-i](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3937-minimum-operations-to-make-array-modulo-alternating-i/) | Medium |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/surajbhan1309/My-_Leetcode/tree/main/4014-minimum-total-price-after-applying-discounts/) | Medium |
 | [4015-weighted-sum-of-a-tree](https://github.com/surajbhan1309/My-_Leetcode/tree/main/4015-weighted-sum-of-a-tree/) | Medium |
+| [4024-nearest-available-drone](https://github.com/surajbhan1309/My-_Leetcode/tree/main/4024-nearest-available-drone/) | Easy |
 | [4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights](https://github.com/surajbhan1309/My-_Leetcode/tree/main/4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -648,6 +649,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3548-equal-sum-grid-partition-ii](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3937-minimum-operations-to-make-array-modulo-alternating-i](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3937-minimum-operations-to-make-array-modulo-alternating-i/) | Medium |
 | [4021-minimum-operations-to-make-a-rotated-palindrome-i](https://github.com/surajbhan1309/My-_Leetcode/tree/main/4021-minimum-operations-to-make-a-rotated-palindrome-i/) | Medium |
+| [4024-nearest-available-drone](https://github.com/surajbhan1309/My-_Leetcode/tree/main/4024-nearest-available-drone/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
