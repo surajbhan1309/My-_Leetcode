@@ -194,6 +194,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0739-daily-temperatures](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0739-daily-temperatures/) | Medium |
 | [0740-delete-and-earn](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0740-delete-and-earn/) | Medium |
 | [0778-swim-in-rising-water](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0778-swim-in-rising-water/) | Hard |
+| [0860-lemonade-change](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0860-lemonade-change/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
@@ -592,6 +593,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0605-can-place-flowers](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0605-can-place-flowers/) | Easy |
 | [0621-task-scheduler](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0621-task-scheduler/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [0860-lemonade-change](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0860-lemonade-change/) | Easy |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/surajbhan1309/My-_Leetcode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/surajbhan1309/My-_Leetcode/tree/main/1827-minimum-operations-to-make-the-array-increasing/) | Easy |
 | [1927-sum-game](https://github.com/surajbhan1309/My-_Leetcode/tree/main/1927-sum-game/) | Medium |
