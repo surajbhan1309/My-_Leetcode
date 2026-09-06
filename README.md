@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/surajbhan1309/My-_Leetcode/tree/main/2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/surajbhan1309/My-_Leetcode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/surajbhan1309/My-_Leetcode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
+| [2592-maximize-greatness-of-an-array](https://github.com/surajbhan1309/My-_Leetcode/tree/main/2592-maximize-greatness-of-an-array/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3936-minimum-swaps-to-move-zeros-to-end/) | Easy |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/surajbhan1309/My-_Leetcode/tree/main/4014-minimum-total-price-after-applying-discounts/) | Medium |
@@ -227,6 +228,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2452-words-within-two-edits-of-dictionary](https://github.com/surajbhan1309/My-_Leetcode/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/surajbhan1309/My-_Leetcode/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/surajbhan1309/My-_Leetcode/tree/main/2588-count-the-number-of-beautiful-subarrays/) | Medium |
+| [2592-maximize-greatness-of-an-array](https://github.com/surajbhan1309/My-_Leetcode/tree/main/2592-maximize-greatness-of-an-array/) | Medium |
 | [2615-sum-of-distances](https://github.com/surajbhan1309/My-_Leetcode/tree/main/2615-sum-of-distances/) | Medium |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/surajbhan1309/My-_Leetcode/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [2906-construct-product-matrix](https://github.com/surajbhan1309/My-_Leetcode/tree/main/2906-construct-product-matrix/) | Medium |
@@ -559,6 +561,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1727-largest-submatrix-with-rearrangements](https://github.com/surajbhan1309/My-_Leetcode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1755-closest-subsequence-sum](https://github.com/surajbhan1309/My-_Leetcode/tree/main/1755-closest-subsequence-sum/) | Hard |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/surajbhan1309/My-_Leetcode/tree/main/2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard |
+| [2592-maximize-greatness-of-an-array](https://github.com/surajbhan1309/My-_Leetcode/tree/main/2592-maximize-greatness-of-an-array/) | Medium |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/surajbhan1309/My-_Leetcode/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3731-find-missing-elements](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3731-find-missing-elements/) | Easy |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/surajbhan1309/My-_Leetcode/tree/main/4014-minimum-total-price-after-applying-discounts/) | Medium |
@@ -592,6 +595,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2078-two-furthest-houses-with-different-colors](https://github.com/surajbhan1309/My-_Leetcode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2087-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/surajbhan1309/My-_Leetcode/tree/main/2087-minimum-cost-homecoming-of-a-robot-in-a-grid/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/surajbhan1309/My-_Leetcode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
+| [2592-maximize-greatness-of-an-array](https://github.com/surajbhan1309/My-_Leetcode/tree/main/2592-maximize-greatness-of-an-array/) | Medium |
 | [2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/surajbhan1309/My-_Leetcode/tree/main/2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros/) | Medium |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/surajbhan1309/My-_Leetcode/tree/main/4014-minimum-total-price-after-applying-discounts/) | Medium |
 | [4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights](https://github.com/surajbhan1309/My-_Leetcode/tree/main/4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights/) | Medium |
