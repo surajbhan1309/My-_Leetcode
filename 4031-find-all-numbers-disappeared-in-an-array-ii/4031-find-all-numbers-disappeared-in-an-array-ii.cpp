@@ -11,7 +11,7 @@ public:
             if (cur < num) {
                 res.push_back({cur, num - 1});
             }
-            cur = max(cur, num + 1);
+            cur = num + 1;
 
             if (cur > upper) break;
         }
