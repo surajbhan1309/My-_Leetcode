@@ -720,6 +720,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0450-delete-node-in-a-bst/) | Medium |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
@@ -756,6 +757,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0310-minimum-height-trees](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0310-minimum-height-trees/) | Medium |
 | [0399-evaluate-division](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0399-evaluate-division/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0547-number-of-provinces](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
@@ -793,6 +795,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0322-coin-change](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0322-coin-change/) | Medium |
 | [0399-evaluate-division](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0399-evaluate-division/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0542-01-matrix](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0542-01-matrix/) | Medium |
 | [0547-number-of-provinces](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
@@ -836,6 +839,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0450-delete-node-in-a-bst/) | Medium |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
@@ -867,6 +871,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0230-kth-smallest-element-in-a-bst](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0450-delete-node-in-a-bst/) | Medium |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
