@@ -2,30 +2,24 @@ class Solution {
 public:
     vector<vector<int>> findDisappearedNumbers(vector<int>& nums, int lower, int upper) {
         sort(nums.begin(), nums.end());
-        vector<vector<int>> ans;
-        long long i = lower;
-        int idx = 0;
-        int n = nums.size();
+        vector<vector<int>> res;
+        int cur = lower;
 
-        while (i <= upper) {
-            while (idx < n && nums[idx] < i) {
-                idx++;
+        for (int num : nums) {
+            if (num < lower || num > upper) continue;
+
+            if (cur < num) {
+                res.push_back({cur, num - 1});
             }
+            cur = max(cur, num + 1);
 
-            if (idx < n && nums[idx] == i) {
-                i++;
-                continue;
-            }
-
-            long long start = i;
-            while (i <= upper && (idx >= n || nums[idx] > i)) {
-                i++;
-            }
-            long long end = i - 1;
-
-            ans.push_back({(int)start, (int)end});
+            if (cur > upper) break;
         }
 
-        return ans;
+        if (cur <= upper) {
+            res.push_back({cur, upper});
+        }
+
+        return res;
     }
 };
