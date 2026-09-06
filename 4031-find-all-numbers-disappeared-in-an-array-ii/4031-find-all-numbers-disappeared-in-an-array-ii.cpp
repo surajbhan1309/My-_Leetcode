@@ -13,7 +13,7 @@ public:
             }
             cur = num + 1;
 
-            if (cur > upper) break;
+            // if (cur > upper) break;
         }
 
         if (cur <= upper) {
