@@ -1,21 +1,16 @@
 class Solution {
 public:
     bool isPalindromic(string s) {
-        int l = 0, r = s.size() - 1;
-
-        while (l <= r) {
-            for (int bit = 7; bit >= 0; --bit) {
-                int leftBit  = (s[l] >> bit) & 1;
-                int rightBit = (s[r] >> (7 - bit)) & 1;
-
-                if (leftBit != rightBit)
-                    return false;
-            }
-
-            l++;
-            r--;
-        }
-
+        string str="";
+       for(int i=0;i<s.size();i++){
+           int a=s[i];
+     str+=bitset<8>(a).to_string();
+       
+       }
+       string rev=str;
+       reverse(rev.begin(),rev.end());
+       if(rev == str)
         return true;
+        return false;
     }
 };
