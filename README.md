@@ -255,6 +255,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3904-smallest-stable-index-ii](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3904-smallest-stable-index-ii/) | Medium |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3936-minimum-swaps-to-move-zeros-to-end/) | Easy |
 | [3937-minimum-operations-to-make-array-modulo-alternating-i](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3937-minimum-operations-to-make-array-modulo-alternating-i/) | Medium |
+| [3974-maximum-total-sum-of-k-selected-elements](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3974-maximum-total-sum-of-k-selected-elements/) | Medium |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/surajbhan1309/My-_Leetcode/tree/main/4014-minimum-total-price-after-applying-discounts/) | Medium |
 | [4015-weighted-sum-of-a-tree](https://github.com/surajbhan1309/My-_Leetcode/tree/main/4015-weighted-sum-of-a-tree/) | Medium |
 | [4024-nearest-available-drone](https://github.com/surajbhan1309/My-_Leetcode/tree/main/4024-nearest-available-drone/) | Easy |
@@ -570,6 +571,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2592-maximize-greatness-of-an-array](https://github.com/surajbhan1309/My-_Leetcode/tree/main/2592-maximize-greatness-of-an-array/) | Medium |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/surajbhan1309/My-_Leetcode/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3731-find-missing-elements](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3731-find-missing-elements/) | Easy |
+| [3974-maximum-total-sum-of-k-selected-elements](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3974-maximum-total-sum-of-k-selected-elements/) | Medium |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/surajbhan1309/My-_Leetcode/tree/main/4014-minimum-total-price-after-applying-discounts/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
@@ -605,6 +607,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/surajbhan1309/My-_Leetcode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2592-maximize-greatness-of-an-array](https://github.com/surajbhan1309/My-_Leetcode/tree/main/2592-maximize-greatness-of-an-array/) | Medium |
 | [2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/surajbhan1309/My-_Leetcode/tree/main/2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros/) | Medium |
+| [3974-maximum-total-sum-of-k-selected-elements](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3974-maximum-total-sum-of-k-selected-elements/) | Medium |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/surajbhan1309/My-_Leetcode/tree/main/4014-minimum-total-price-after-applying-discounts/) | Medium |
 | [4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights](https://github.com/surajbhan1309/My-_Leetcode/tree/main/4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights/) | Medium |
 ## Combinatorics
