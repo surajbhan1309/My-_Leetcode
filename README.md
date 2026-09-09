@@ -503,6 +503,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3870-count-commas-in-range](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3870-count-commas-in-range/) | Easy |
+| [3871-count-commas-in-range-ii](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3871-count-commas-in-range-ii/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 | [4021-minimum-operations-to-make-a-rotated-palindrome-i](https://github.com/surajbhan1309/My-_Leetcode/tree/main/4021-minimum-operations-to-make-a-rotated-palindrome-i/) | Medium |
