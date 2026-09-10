@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2592-maximize-greatness-of-an-array](https://github.com/surajbhan1309/My-_Leetcode/tree/main/2592-maximize-greatness-of-an-array/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3936-minimum-swaps-to-move-zeros-to-end/) | Easy |
+| [3940-limit-occurrences-in-sorted-array](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3940-limit-occurrences-in-sorted-array/) | Easy |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/surajbhan1309/My-_Leetcode/tree/main/4014-minimum-total-price-after-applying-discounts/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -257,6 +258,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3904-smallest-stable-index-ii](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3904-smallest-stable-index-ii/) | Medium |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3936-minimum-swaps-to-move-zeros-to-end/) | Easy |
 | [3937-minimum-operations-to-make-array-modulo-alternating-i](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3937-minimum-operations-to-make-array-modulo-alternating-i/) | Medium |
+| [3940-limit-occurrences-in-sorted-array](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3940-limit-occurrences-in-sorted-array/) | Easy |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3974-maximum-total-sum-of-k-selected-elements/) | Medium |
 | [3975-filter-occupied-intervals](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3975-filter-occupied-intervals/) | Medium |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/surajbhan1309/My-_Leetcode/tree/main/4014-minimum-total-price-after-applying-discounts/) | Medium |
