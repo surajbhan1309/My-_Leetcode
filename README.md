@@ -103,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
 | [3325-count-substrings-with-k-frequency-characters-i](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3325-count-substrings-with-k-frequency-characters-i/) | Medium |
 | [3612-process-string-with-special-operations-i](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3612-process-string-with-special-operations-i/) | Medium |
+| [3941-password-strength](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3941-password-strength/) | Medium |
 | [4006-count-valid-prefixes](https://github.com/surajbhan1309/My-_Leetcode/tree/main/4006-count-valid-prefixes/) | Easy |
 | [4021-minimum-operations-to-make-a-rotated-palindrome-i](https://github.com/surajbhan1309/My-_Leetcode/tree/main/4021-minimum-operations-to-make-a-rotated-palindrome-i/) | Medium |
 ## Array
@@ -317,6 +318,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3731-find-missing-elements](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3731-find-missing-elements/) | Easy |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
+| [3941-password-strength](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3941-password-strength/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
