@@ -243,6 +243,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3548-equal-sum-grid-partition-ii](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
@@ -314,6 +315,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3138-minimum-length-of-anagram-concatenation](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3138-minimum-length-of-anagram-concatenation/) | Medium |
 | [3325-count-substrings-with-k-frequency-characters-i](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3325-count-substrings-with-k-frequency-characters-i/) | Medium |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3548-equal-sum-grid-partition-ii](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
@@ -528,6 +530,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0206-reverse-linked-list](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0231-power-of-two](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -672,6 +675,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3548-equal-sum-grid-partition-ii](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3937-minimum-operations-to-make-array-modulo-alternating-i](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3937-minimum-operations-to-make-array-modulo-alternating-i/) | Medium |
 | [4021-minimum-operations-to-make-a-rotated-palindrome-i](https://github.com/surajbhan1309/My-_Leetcode/tree/main/4021-minimum-operations-to-make-a-rotated-palindrome-i/) | Medium |
