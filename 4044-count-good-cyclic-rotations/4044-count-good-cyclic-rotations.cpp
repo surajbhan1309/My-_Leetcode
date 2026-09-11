@@ -11,7 +11,7 @@ public:
         
         long long current_sum = 0;
         
-        for (int i = 0; i < k; ++i) {
+        for (int i = 0; i < k; i++) {
             current_sum += nums[i];
         }
         
@@ -21,7 +21,7 @@ public:
             good_rotations++;
         }
         
-        for (int i = 1; i < n; ++i) {
+        for (int i = 1; i < n; i++) {
             current_sum = current_sum - nums[i - 1] + nums[(i + k - 1) % n];
             
             if (current_sum * 2 > total_sum) {
