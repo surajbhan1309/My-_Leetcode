@@ -235,6 +235,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/surajbhan1309/My-_Leetcode/tree/main/2588-count-the-number-of-beautiful-subarrays/) | Medium |
 | [2592-maximize-greatness-of-an-array](https://github.com/surajbhan1309/My-_Leetcode/tree/main/2592-maximize-greatness-of-an-array/) | Medium |
 | [2615-sum-of-distances](https://github.com/surajbhan1309/My-_Leetcode/tree/main/2615-sum-of-distances/) | Medium |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/surajbhan1309/My-_Leetcode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/surajbhan1309/My-_Leetcode/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [2906-construct-product-matrix](https://github.com/surajbhan1309/My-_Leetcode/tree/main/2906-construct-product-matrix/) | Medium |
 | [2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/surajbhan1309/My-_Leetcode/tree/main/2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros/) | Medium |
@@ -310,6 +311,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2121-intervals-between-identical-elements](https://github.com/surajbhan1309/My-_Leetcode/tree/main/2121-intervals-between-identical-elements/) | Medium |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/surajbhan1309/My-_Leetcode/tree/main/2588-count-the-number-of-beautiful-subarrays/) | Medium |
 | [2615-sum-of-distances](https://github.com/surajbhan1309/My-_Leetcode/tree/main/2615-sum-of-distances/) | Medium |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/surajbhan1309/My-_Leetcode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/surajbhan1309/My-_Leetcode/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3138-minimum-length-of-anagram-concatenation](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3138-minimum-length-of-anagram-concatenation/) | Medium |
@@ -489,6 +491,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/surajbhan1309/My-_Leetcode/tree/main/2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/surajbhan1309/My-_Leetcode/tree/main/2220-minimum-bit-flips-to-convert-number/) | Easy |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/surajbhan1309/My-_Leetcode/tree/main/2588-count-the-number-of-beautiful-subarrays/) | Medium |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/surajbhan1309/My-_Leetcode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## Math
