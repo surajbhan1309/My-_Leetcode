@@ -516,6 +516,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0231-power-of-two](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0368-largest-divisible-subset](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0368-largest-divisible-subset/) | Medium |
 | [0486-predict-the-winner](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0486-predict-the-winner/) | Medium |
+| [0836-rectangle-overlap](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0836-rectangle-overlap/) | Easy |
 | [0887-super-egg-drop](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0887-super-egg-drop/) | Hard |
 | [1927-sum-game](https://github.com/surajbhan1309/My-_Leetcode/tree/main/1927-sum-game/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/surajbhan1309/My-_Leetcode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
@@ -1185,4 +1186,8 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0486-predict-the-winner/) | Medium |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0836-rectangle-overlap](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0836-rectangle-overlap/) | Easy |
 <!---LeetCode Topics End-->
