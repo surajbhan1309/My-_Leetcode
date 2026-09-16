@@ -476,6 +476,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/surajbhan1309/My-_Leetcode/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/surajbhan1309/My-_Leetcode/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/surajbhan1309/My-_Leetcode/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/surajbhan1309/My-_Leetcode/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1755-closest-subsequence-sum](https://github.com/surajbhan1309/My-_Leetcode/tree/main/1755-closest-subsequence-sum/) | Hard |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/surajbhan1309/My-_Leetcode/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/surajbhan1309/My-_Leetcode/tree/main/2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard |
@@ -518,6 +519,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0486-predict-the-winner](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0486-predict-the-winner/) | Medium |
 | [0836-rectangle-overlap](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0836-rectangle-overlap/) | Easy |
 | [0887-super-egg-drop](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0887-super-egg-drop/) | Hard |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/surajbhan1309/My-_Leetcode/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1927-sum-game](https://github.com/surajbhan1309/My-_Leetcode/tree/main/1927-sum-game/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/surajbhan1309/My-_Leetcode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
@@ -640,6 +642,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0062-unique-paths/) | Medium |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/surajbhan1309/My-_Leetcode/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -648,6 +651,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0560-subarray-sum-equals-k](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/surajbhan1309/My-_Leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/surajbhan1309/My-_Leetcode/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/surajbhan1309/My-_Leetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [2121-intervals-between-identical-elements](https://github.com/surajbhan1309/My-_Leetcode/tree/main/2121-intervals-between-identical-elements/) | Medium |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/surajbhan1309/My-_Leetcode/tree/main/2588-count-the-number-of-beautiful-subarrays/) | Medium |
