@@ -1,19 +1,30 @@
 class Solution {
 public:
-    static const int MOD = 1e9 + 7;
+    int M = 1e9+7;
+    int t[1001][1001];
+    int solve(int n, int k, int i) {
+        if (k == 0) 
+            return 1;
 
-    int numberOfSets(int n, int k) {
-        vector<vector<long long>> dp(n, vector<long long>(k + 1));
-        for(int i = 0; i < n; i++) dp[i][0] = 1;
+        if (i >= n)
+            return 0;
 
-        for(int j = 1; j <= k; j++){
-            long long sum = 0;
-            for(int i = 1; i < n; i++){
-                sum = (sum + dp[i - 1][j - 1]) % MOD;
-                dp[i][j] = (dp[i - 1][j] + sum) % MOD;
-            }
+        if(t[k][i] != -1) {
+            return t[k][i];
         }
 
-        return dp[n - 1][k];
+        long long take = 0;
+        for(int j = i+1; j <= n-1; j++) {
+            take = (take + solve(n, k-1, j)) % M;
+        }
+
+        long long skip = solve(n, k, i+1) % M;
+
+        return t[k][i] = take + skip;
+    }
+
+    int numberOfSets(int n, int k) {
+        memset(t, -1, sizeof(t));
+        return solve(n, k, 0) % M;
     }
 };
