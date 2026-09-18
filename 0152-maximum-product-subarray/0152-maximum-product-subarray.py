@@ -10,5 +10,5 @@ class Solution:
                 suffix=1
             prefix*=nums[i]
             suffix*=nums[len(nums)-1-i]
-            ans=max({ans,prefix,suffix})
+            ans=max(ans,prefix,suffix)
         return ans
