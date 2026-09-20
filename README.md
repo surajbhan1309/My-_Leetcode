@@ -104,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3138-minimum-length-of-anagram-concatenation](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3138-minimum-length-of-anagram-concatenation/) | Medium |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
 | [3325-count-substrings-with-k-frequency-characters-i](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3325-count-substrings-with-k-frequency-characters-i/) | Medium |
+| [3498-reverse-degree-of-a-string](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3941-password-strength](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3941-password-strength/) | Medium |
 | [4006-count-valid-prefixes](https://github.com/surajbhan1309/My-_Leetcode/tree/main/4006-count-valid-prefixes/) | Easy |
@@ -730,6 +731,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2149-rearrange-array-elements-by-sign](https://github.com/surajbhan1309/My-_Leetcode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/surajbhan1309/My-_Leetcode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
+| [3498-reverse-degree-of-a-string](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 ## Binary Indexed Tree
