@@ -1,28 +1,19 @@
 class Solution {
 public:
     vector<long long> resultArray(vector<int>& nums, int k) {
-        int n = nums.size();
-        vector<long long> result(k);
-        vector<long long> dp(k);  
-                                
-
-        for (int i = 0; i < n; i++) {
-            vector<long long> ndp(k);
-
-            ndp[nums[i] % k]++;
-
+        vector<long long> result(k), state(k);
+        for (int value : nums) {
+            int rem = value % k;
+            vector<long long> next(k);
             for (int r = 0; r < k; r++) {
-                ndp[(long long)r * nums[i] % k] += dp[r];
+                int productRem = (r * rem) % k;
+                next[productRem] += state[r];
+                result[productRem] += state[r];
             }
-
-            dp = move(ndp); 
-
-            
-            for (int r = 0; r < k; r++) {
-                result[r] += dp[r];
-            }
+            next[rem]++;
+            result[rem]++;
+            state = next;
         }
-
         return result;
     }
 };
