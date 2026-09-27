@@ -87,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1048-longest-string-chain](https://github.com/surajbhan1309/My-_Leetcode/tree/main/1048-longest-string-chain/) | Medium |
 | [1092-shortest-common-supersequence](https://github.com/surajbhan1309/My-_Leetcode/tree/main/1092-shortest-common-supersequence/) | Hard |
 | [1143-longest-common-subsequence](https://github.com/surajbhan1309/My-_Leetcode/tree/main/1143-longest-common-subsequence/) | Medium |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/surajbhan1309/My-_Leetcode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/surajbhan1309/My-_Leetcode/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/surajbhan1309/My-_Leetcode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/surajbhan1309/My-_Leetcode/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
@@ -363,6 +364,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0907-sum-of-subarray-minimums](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/surajbhan1309/My-_Leetcode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/surajbhan1309/My-_Leetcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/surajbhan1309/My-_Leetcode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/surajbhan1309/My-_Leetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -1223,4 +1225,8 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0836-rectangle-overlap](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0836-rectangle-overlap/) | Easy |
 | [1401-circle-and-rectangle-overlapping](https://github.com/surajbhan1309/My-_Leetcode/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/surajbhan1309/My-_Leetcode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 <!---LeetCode Topics End-->
