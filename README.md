@@ -281,6 +281,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [4015-weighted-sum-of-a-tree](https://github.com/surajbhan1309/My-_Leetcode/tree/main/4015-weighted-sum-of-a-tree/) | Medium |
 | [4024-nearest-available-drone](https://github.com/surajbhan1309/My-_Leetcode/tree/main/4024-nearest-available-drone/) | Easy |
 | [4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights](https://github.com/surajbhan1309/My-_Leetcode/tree/main/4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights/) | Medium |
+| [4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement](https://github.com/surajbhan1309/My-_Leetcode/tree/main/4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -343,6 +344,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3941-password-strength](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3941-password-strength/) | Medium |
+| [4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement](https://github.com/surajbhan1309/My-_Leetcode/tree/main/4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -642,6 +644,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2833-furthest-point-from-origin](https://github.com/surajbhan1309/My-_Leetcode/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [3138-minimum-length-of-anagram-concatenation](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3138-minimum-length-of-anagram-concatenation/) | Medium |
 | [4006-count-valid-prefixes](https://github.com/surajbhan1309/My-_Leetcode/tree/main/4006-count-valid-prefixes/) | Easy |
+| [4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement](https://github.com/surajbhan1309/My-_Leetcode/tree/main/4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
