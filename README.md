@@ -1236,6 +1236,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0022-generate-parentheses/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/surajbhan1309/My-_Leetcode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/surajbhan1309/My-_Leetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 <!---LeetCode Topics End-->
