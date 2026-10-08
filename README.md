@@ -242,6 +242,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/surajbhan1309/My-_Leetcode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2121-intervals-between-identical-elements](https://github.com/surajbhan1309/My-_Leetcode/tree/main/2121-intervals-between-identical-elements/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/surajbhan1309/My-_Leetcode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
+| [2210-count-hills-and-valleys-in-an-array](https://github.com/surajbhan1309/My-_Leetcode/tree/main/2210-count-hills-and-valleys-in-an-array/) | Easy |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/surajbhan1309/My-_Leetcode/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/surajbhan1309/My-_Leetcode/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/surajbhan1309/My-_Leetcode/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
