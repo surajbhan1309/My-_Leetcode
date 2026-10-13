@@ -19,7 +19,7 @@ public:
             flag=!flag;
         }
         return ans;
-        
+  
         
     }
 };
