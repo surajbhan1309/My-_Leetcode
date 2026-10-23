@@ -273,6 +273,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3660-jump-game-ix](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3660-jump-game-ix/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
@@ -539,6 +540,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/surajbhan1309/My-_Leetcode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
