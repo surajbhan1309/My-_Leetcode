@@ -100,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/surajbhan1309/My-_Leetcode/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1927-sum-game](https://github.com/surajbhan1309/My-_Leetcode/tree/main/1927-sum-game/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/surajbhan1309/My-_Leetcode/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
+| [2409-count-days-spent-together](https://github.com/surajbhan1309/My-_Leetcode/tree/main/2409-count-days-spent-together/) | Easy |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/surajbhan1309/My-_Leetcode/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/surajbhan1309/My-_Leetcode/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/surajbhan1309/My-_Leetcode/tree/main/2833-furthest-point-from-origin/) | Easy |
@@ -564,6 +565,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1401-circle-and-rectangle-overlapping](https://github.com/surajbhan1309/My-_Leetcode/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/surajbhan1309/My-_Leetcode/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1927-sum-game](https://github.com/surajbhan1309/My-_Leetcode/tree/main/1927-sum-game/) | Medium |
+| [2409-count-days-spent-together](https://github.com/surajbhan1309/My-_Leetcode/tree/main/2409-count-days-spent-together/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/surajbhan1309/My-_Leetcode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3524-find-x-value-of-array-i](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3524-find-x-value-of-array-i/) | Medium |
