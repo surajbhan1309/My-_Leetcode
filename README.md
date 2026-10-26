@@ -273,6 +273,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
@@ -456,6 +457,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -885,6 +887,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1631-path-with-minimum-effort](https://github.com/surajbhan1309/My-_Leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/surajbhan1309/My-_Leetcode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3310-remove-methods-from-project/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [4015-weighted-sum-of-a-tree](https://github.com/surajbhan1309/My-_Leetcode/tree/main/4015-weighted-sum-of-a-tree/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -926,6 +929,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1631-path-with-minimum-effort](https://github.com/surajbhan1309/My-_Leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3310-remove-methods-from-project/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -975,6 +979,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/surajbhan1309/My-_Leetcode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/surajbhan1309/My-_Leetcode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/surajbhan1309/My-_Leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
