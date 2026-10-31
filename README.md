@@ -279,6 +279,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3660-jump-game-ix](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3660-jump-game-ix/) | Medium |
+| [3665-twisted-mirror-path-count](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3665-twisted-mirror-path-count/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3731-find-missing-elements](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3731-find-missing-elements/) | Easy |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
@@ -460,6 +461,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
+| [3665-twisted-mirror-path-count](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3665-twisted-mirror-path-count/) | Medium |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -529,6 +531,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3524-find-x-value-of-array-i](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3660-jump-game-ix](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3660-jump-game-ix/) | Medium |
+| [3665-twisted-mirror-path-count](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3665-twisted-mirror-path-count/) | Medium |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
