@@ -194,6 +194,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0442-find-all-duplicates-in-an-array](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0455-assign-cookies](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0455-assign-cookies/) | Easy |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0486-predict-the-winner](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0486-predict-the-winner/) | Medium |
 | [0493-reverse-pairs](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0493-reverse-pairs/) | Hard |
@@ -572,6 +573,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0368-largest-divisible-subset](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0368-largest-divisible-subset/) | Medium |
 | [0396-rotate-function](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0396-rotate-function/) | Medium |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0486-predict-the-winner](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0486-predict-the-winner/) | Medium |
 | [0836-rectangle-overlap](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0836-rectangle-overlap/) | Easy |
 | [0887-super-egg-drop](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0887-super-egg-drop/) | Hard |
@@ -647,6 +649,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0442-find-all-duplicates-in-an-array](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0455-assign-cookies](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0455-assign-cookies/) | Easy |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0621-task-scheduler](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0621-task-scheduler/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
