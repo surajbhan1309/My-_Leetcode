@@ -284,6 +284,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3665-twisted-mirror-path-count](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3665-twisted-mirror-path-count/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3731-find-missing-elements](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3731-find-missing-elements/) | Easy |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
@@ -586,6 +587,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3524-find-x-value-of-array-i](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3870-count-commas-in-range](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3870-count-commas-in-range/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3871-count-commas-in-range-ii/) | Medium |
