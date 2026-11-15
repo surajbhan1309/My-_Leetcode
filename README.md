@@ -235,6 +235,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/surajbhan1309/My-_Leetcode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/surajbhan1309/My-_Leetcode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/surajbhan1309/My-_Leetcode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/surajbhan1309/My-_Leetcode/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/surajbhan1309/My-_Leetcode/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/surajbhan1309/My-_Leetcode/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
 | [1559-detect-cycles-in-2d-grid](https://github.com/surajbhan1309/My-_Leetcode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
@@ -528,6 +529,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/surajbhan1309/My-_Leetcode/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/surajbhan1309/My-_Leetcode/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/surajbhan1309/My-_Leetcode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/surajbhan1309/My-_Leetcode/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/surajbhan1309/My-_Leetcode/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/surajbhan1309/My-_Leetcode/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1755-closest-subsequence-sum](https://github.com/surajbhan1309/My-_Leetcode/tree/main/1755-closest-subsequence-sum/) | Hard |
@@ -582,6 +584,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0836-rectangle-overlap](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0836-rectangle-overlap/) | Easy |
 | [0887-super-egg-drop](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0887-super-egg-drop/) | Hard |
 | [1401-circle-and-rectangle-overlapping](https://github.com/surajbhan1309/My-_Leetcode/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/surajbhan1309/My-_Leetcode/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/surajbhan1309/My-_Leetcode/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1927-sum-game](https://github.com/surajbhan1309/My-_Leetcode/tree/main/1927-sum-game/) | Medium |
 | [2409-count-days-spent-together](https://github.com/surajbhan1309/My-_Leetcode/tree/main/2409-count-days-spent-together/) | Easy |
@@ -728,6 +731,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0724-find-pivot-index](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0724-find-pivot-index/) | Easy |
 | [0930-binary-subarrays-with-sum](https://github.com/surajbhan1309/My-_Leetcode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/surajbhan1309/My-_Leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/surajbhan1309/My-_Leetcode/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/surajbhan1309/My-_Leetcode/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/surajbhan1309/My-_Leetcode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/surajbhan1309/My-_Leetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
