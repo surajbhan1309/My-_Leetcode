@@ -270,6 +270,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/surajbhan1309/My-_Leetcode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
+| [3364-minimum-positive-sum-subarray](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
@@ -740,6 +741,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2615-sum-of-distances](https://github.com/surajbhan1309/My-_Leetcode/tree/main/2615-sum-of-distances/) | Medium |
 | [2906-construct-product-matrix](https://github.com/surajbhan1309/My-_Leetcode/tree/main/2906-construct-product-matrix/) | Medium |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
+| [3364-minimum-positive-sum-subarray](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3548-equal-sum-grid-partition-ii](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3903-smallest-stable-index-i](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3904-smallest-stable-index-ii/) | Medium |
@@ -797,6 +799,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/surajbhan1309/My-_Leetcode/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3325-count-substrings-with-k-frequency-characters-i](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3325-count-substrings-with-k-frequency-characters-i/) | Medium |
+| [3364-minimum-positive-sum-subarray](https://github.com/surajbhan1309/My-_Leetcode/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
